@@ -1,6 +1,6 @@
 # Site settings
 title: Corrado Maurini
-baseurl: "/"
+baseurl: "http://cmaurini.github.io"
 url: "http://cmaurini.github.io"
 
 # Build settings
