@@ -1,7 +1,7 @@
 # Site settings
 title: Corrado Maurini
 baseurl: "/slim"
-url: "http://syaning.com"
+url: "http://cmaurini.github.io"
 
 # Build settings
 kramdown:
@@ -12,3 +12,5 @@ permalink: pretty
 # just leave blank to disable it
 google_analytics:
 disqus_shortname:
+
+github: [metadata]
