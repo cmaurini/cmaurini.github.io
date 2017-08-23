@@ -1,6 +1,6 @@
 # Site settings
 title: Corrado Maurini
-baseurl: "/slim"
+baseurl: "/"
 url: "http://cmaurini.github.io"
 
 # Build settings
