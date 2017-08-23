@@ -1,14 +1,62 @@
-### Welcome to GitHub Pages.
-This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here [using GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/), select a template crafted by a designer, and publish. After your page is generated, you can check out the new `gh-pages` branch locally. If you’re using GitHub Desktop, simply sync your repository and you’ll see the new branch.
+---
+layout: default
+title:  "CM webpage"
+date:   2015-11-15 19:02:34 +0800
+---
 
-### Designer Templates
-We’ve crafted some handsome templates for you to use. Go ahead and click 'Continue to layouts' to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved.
+I am Full Professor in Mechanics at the [Université Pierre et Marie Curie](http://www.upmc.fr).
+I work in the [MISES group](http://www.dalembert.upmc.fr/mises/index.php)
+of the [d'Alembert Institute](http://www.dalembert.upmc.fr/ijlrda/).
 
-### Creating pages manually
-If you prefer to not use the automatic generator, push a branch named `gh-pages` to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.
+- Link to my ORCID page with list of publications and short CV <br />
+<a href="https://orcid.org/0000-0003-1092-4461" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0003-1092-4461</a>
+- Openings and news
+- Software projects
 
-### Authors and Contributors
-You can @mention a GitHub username to generate a link to their profile. The resulting `<a>` element will link to the contributor’s GitHub Profile. For example: In 2007, Chris Wanstrath (@defunkt), PJ Hyett (@pjhyett), and Tom Preston-Werner (@mojombo) founded GitHub.
 
-### Support or Contact
-Having trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<h2 class="smallcap">Research</h2>
+My current research interests include stability of structures,
+fracture and damage mechanics, computational mechanics,
+plates and shells, large deformations and instabilities in soft solids.
+
+- Fracture and damage mechanics, variational phase-field models
+- Plates and shells
+- Computational mechanics and open-source codes
+%% https://bitbucket.org/cmaurini/varfrac_for_cism
+%% https://bitbucket.org/cmaurini/gradient-damage
+%% https://bitbucket.org/pefarrell/varfrac-solvers
+%% https://bitbucket.org/unilucompmech/fenics-shells
+%% https://www.youtube.com/user/cmaurini
+%%
+
+<h2 class="smallcap">Teaching</h2>
+I teach several classes at UPMC: Equilibre stabilité et vibrations (3A103), Structures élancées (4AG20),
+Nonlinear finite element analysis (5AG07), Projects in structural mechanics.
+
+%% **strong**, *italic*, <del>deletion</del>, <ins>insertion</ins>.
+
+
+
+<div class="home">
+	<section>
+		<h2 class="smallcap">about</h2>
+		<p>
+			<a href="https://github.com/syaning/slim">slim</a>
+			is a simple and beadutiful jekyll theme, it has only the essential
+			functions so that you can concentrate on the content
+			 of your blog. It's under MIT license.
+	 </p>
+	</section>
+	<section>
+		<h2 class="smallcap">posts</h2>
+		<ul class="post-list">
+			{% for post in site.posts limit:5 %}
+			<li>
+				<time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %d, %Y" }}</time>
+				<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+			</li>
+			{% endfor %}
+		</ul>
+		<p><a href="{{ "/archives/" | prepend: site.baseurl }}">view more...</a></p>
+	</section>
+	</div>

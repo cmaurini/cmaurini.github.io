@@ -1,8 +1,14 @@
-title: cmaurini.GitHub.io
-description: 
-google_analytics: 
-show_downloads: true
-theme: jekyll-theme-slate
+# Site settings
+title: Corrado Maurini
+baseurl: "/slim"
+url: "http://syaning.com"
 
-gems:
-  - jekyll-mentions
+# Build settings
+kramdown:
+  input: GFM
+permalink: pretty
+
+# Third-party services
+# just leave blank to disable it
+google_analytics:
+disqus_shortname:
