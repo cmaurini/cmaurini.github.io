@@ -11,7 +11,7 @@
     font-size: 1.5rem;
     font-weight: 300;
     letter-spacing: -1px;
-    color: $grey-color-dark;
+    color: $grey-color;
 
     &,
     &:hover {
@@ -45,7 +45,7 @@
 .smallcap {
     text-transform: lowercase;
     font-variant: small-caps;
-
+    color: $grey-color;
     &::first-letter {
         text-transform: uppercase;
     }
