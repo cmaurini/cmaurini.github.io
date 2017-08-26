@@ -12,7 +12,7 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font: 400 16px/1.5 "Cutive Mono", "Courier New", "Helvetica Neue", Helvetica, FangSong, STFangsong, sans-serif;
+  font: 400 16px/1.5 "Open Sans", sans-serif;
   color: #111;
   background-color: #fff; }
 
@@ -146,7 +146,7 @@ hr {
   font-size: 1.5rem;
   font-weight: 300;
   letter-spacing: -1px;
-  color: #424242; }
+  color: #828282; }
   .site-title, .site-title:hover {
     text-decoration: none; }
 
@@ -168,7 +168,8 @@ hr {
 
 .smallcap {
   text-transform: lowercase;
-  font-variant: small-caps; }
+  font-variant: small-caps;
+  color: #828282; }
   .smallcap::first-letter {
     text-transform: uppercase; }
 

@@ -1,6 +1,7 @@
-# slim
+# Personal website
 
-slim is just a slim jekyll theme. [Demo](http://syaning.com/slim).
+This is Corrado Maurini website.
+It is based on the slim jekyll theme. [Demo](http://syaning.com/slim).
 
 ### License
 
