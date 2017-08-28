@@ -1,0 +1,30 @@
+---
+---
+{{ reference }}
+{% if entry.doi %}
+[<a href="http://dx.doi.org/{{entry.doi}}">Publisher</a>]
+{% endif %}
+{% if entry.pdf %}
+[<a href="{{entry.pdf}}">Pdf</a>]
+{% endif %}
+{% if entry.links %}
+[<a href="{{links}}">Supporting Materials</a>]
+{% endif %}
+<!--
+{% if entry.abstract %}
+// <p>{{ entry.abstract }}</p>
+// {% endif %}
+#<pre>{{ entry.bibtex }}</pre>
+-->
+
+<div id="{{key}}-materials">
+  <ul class="nav nav-pills">
+    {% if link %}
+    <li><a href="{{link}}">Download</a></li>
+    {% endif %}
+
+    {% if entry.abstract %}
+    <p id="{{key}}-abstract" class="collapse">{{entry.abstract}}</p>
+  {% endif %}
+ </ul>
+</div>

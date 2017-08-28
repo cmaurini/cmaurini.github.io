@@ -1,37 +1,80 @@
 <!DOCTYPE html>
 <html>
-  <head>
+  <body>
+    <!-- <header class="site-header">
+     <a class="site-title" href="/">Corrado Maurini</a>
+        </header>-->
+    <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>CM webpage - Corrado Maurini</title>
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+
+  <link href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/cosmo/bootstrap.min.css" rel="stylesheet" integrity="sha384-h21C2fcDk/eFsW9sC9h0dhokq5pDinLNklTKoxIZRUn3+hvmgQSffLLQ4G4l2eEr" crossorigin="anonymous">
+
+  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
   <link rel="stylesheet" href="/css/main.css">
+
   <link rel="canonical" href="http://localhost:4000/">
+
   <link rel="alternate" type="application/rss+xml" title="Corrado Maurini" href="http://localhost:4000/feed.xml">
+
+  <style type="text/css">
+    h2 {
+        font-size: 2rem;
+        color: red;
+
+        }
+    h1 {
+        color: red;
+        font-size: 5rem;
+        }
+  </style>
+
+<title>Corrado Maurini</title>
+
+
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="/index">Corrado Maurini</a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li><a href="/publications">Publications</a></li>
+      <li><a href="/research">Research</a></li>
+      <li><a href="/contacts">Teaching</a></li>
+      <li><a href="/contacts">Contacts</a></li>
+      <li><a href="/archives">News</a></li>
+    </ul>
+  </div>
+</nav>
 </head>
 
-  <body>
-    <header class="site-header">
-      <a class="site-title" href="/">Corrado Maurini</a>
-    </header>
+
+
     <div class="page-content">
       <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" />
 
-<h2 class="smallcap">about</h2>
+<h2 id="about">About</h2>
 <p>I am Full Professor in Mechanics at the <a href="http://www.upmc.fr">Université Pierre et Marie Curie</a>.
 I work in the <a href="http://www.dalembert.upmc.fr/mises/index.php">MISES group</a>
 of the <a href="http://www.dalembert.upmc.fr/ijlrda/">d’Alembert Institute</a>.</p>
 
 <ul>
-  <li><a href="https://orcid.org/0000-0003-1092-4461">List of publications and short CV</a></li>
-  <li><a href="http://hal.upmc.fr/search/index/?q=authFullName_t%3A%28Maurini+Corrado%29&amp;submit=">Link to HAL-UPMC deposit with pdfs of my publications</a></li>
+  <li><a href="https://orcid.org/0000-0003-1092-4461" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon" />orcid.org/0000-0003-1092-4461</a></li>
+  <li><a href="http://hal.upmc.fr/search/index/?q=authFullName_t%3A%28Maurini+Corrado%29&amp;submit=">HAL-UPMC with pdfs of my publications</a></li>
   <li><a href="https://www.youtube.com/user/cmaurini">Some research videos</a></li>
   <li><a href="contacts">Contacts</a></li>
+  <li><a href="publications">List of publications</a></li>
+  <li><a href="https://www.researchgate.net/profile/Corrado_Maurini">researchgate</a></li>
 </ul>
 
-<p><a href="https://orcid.org/0000-0003-1092-4461" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon" />orcid.org/0000-0003-1092-4461</a></p>
-
-<h2 class="smallcap">Research</h2>
+<h2 id="research">Research</h2>
 <p>My current research interests include stability of structures,
 fracture and damage mechanics, computational mechanics,
 plates and shells, large deformations and instabilities in soft solids.</p>
@@ -42,25 +85,7 @@ plates and shells, large deformations and instabilities in soft solids.</p>
   <li>Nonlinear elasticity</li>
 </ul>
 
-<h2 class="smallcap">Open source codes</h2>
-<p>You find here few repositories with codes I develop and use for my research. Those codes are based on <a href="https://fenicsproject.org">FEniCS</a> and meant mainly to serve as examples for further developments.</p>
-
-<ul>
-  <li>Variational phase field models of fracture and damage
-    <ul>
-      <li><a href="https://bitbucket.org/cmaurini/varfrac_for_cism">https://bitbucket.org/cmaurini/varfrac_for_cism</a></li>
-      <li><a href="https://bitbucket.org/cmaurini/gradient-damage">https://bitbucket.org/cmaurini/gradient-damage</a></li>
-      <li><a href="https://bitbucket.org/pefarrell/varfrac-solvers">https://bitbucket.org/pefarrell/varfrac-solvers</a></li>
-    </ul>
-  </li>
-  <li>Plates and shells
-    <ul>
-      <li><a href="https://bitbucket.org/unilucompmech/fenics-shells">https://bitbucket.org/unilucompmech/fenics-shells</a></li>
-    </ul>
-  </li>
-</ul>
-
-<h2 class="smallcap">Teaching</h2>
+<h2 id="teaching">Teaching</h2>
 <p>I teach several classes at UPMC including</p>
 <ul>
   <li><em>Equilibre stabilité et vibrations</em> (3A103)</li>
@@ -69,9 +94,12 @@ plates and shells, large deformations and instabilities in soft solids.</p>
   <li><em>Projects in structural mechanics</em>.</li>
 </ul>
 
+<h2 id="open-source-codes">Open source codes</h2>
+<p>You find <a href="codes">here</a> few repositories with codes I develop and use for my research and teaching. Those codes are based on <a href="https://fenicsproject.org">FEniCS</a> and meant mainly to serve as examples for further developments.</p>
+
+<h2 id="posts">Posts</h2>
 <div class="home">
 	<section>
-		<h2 class="smallcap">posts</h2>
 		<ul class="post-list">
 			
 			<li>
@@ -98,7 +126,7 @@ plates and shells, large deformations and instabilities in soft solids.</p>
     </div>
     
     <footer class="site-header">
-    <span>&copy; Corrado Maurini 2017. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> using the <a href="https://github.com/syaning/sli" rel="nofollow">slim theme</a>.</span>
+    <span>&copy; Corrado Maurini 2017. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a>.</span>
 
 
     </footer>

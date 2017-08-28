@@ -11,6 +11,41 @@ permalink: pretty
 # Third-party services
 # just leave blank to disable it
 google_analytics:
-disqus_shortname:
+disqus_shortname: cmaurini
 
 github: [metadata]
+
+# jekyll/scholar config (see https://github.com/inukshuk/jekyll-scholar)
+gems: ['jekyll/scholar']
+mathjax: true
+
+scholar:
+  style: apa
+  sort_by: year
+  order: descending
+  group_by: none
+  group_order: descending
+
+  source: ./_bibliography
+  bibliography: references.bib
+  bibliography_template: ""
+
+  replace_strings: true
+  join_strings:    true
+
+  use_raw_bibtex_entry: true
+
+  details_dir:    bibliography
+  details_layout: nodetails.html
+  details_link:   Details
+
+  bibliography_template: bib
+  source: ./_bibliography
+
+#   details_link: "details"
+#   details_dir:  "bibliography"
+#  details_layout: "details.html"
+#  repository: "/pdfs/"
+
+
+

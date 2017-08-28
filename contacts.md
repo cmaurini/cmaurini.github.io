@@ -1,10 +1,9 @@
 ---
-layout: default
+layout: page
 title:  "Contacts"
 date:   2017-08-26 19:02:34 +0800
 ---
 
-<h2 class="smallcap">Contacts</h2>
 
 
 Institut Jean Le Rond d'Alembert (UMR 7190) <br />
