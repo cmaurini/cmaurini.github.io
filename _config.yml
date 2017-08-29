@@ -4,8 +4,15 @@ baseurl: "http://cmaurini.github.io"
 url: "http://cmaurini.github.io"
 
 # Build settings
+
+github: [metadata]
+encoding: UTF-8
 kramdown:
   input: GFM
+  hard_wrap: false
+future: true
+jailed: false
+gfm_quirks: paragraph_end
 permalink: pretty
 
 # Third-party services
@@ -13,10 +20,17 @@ permalink: pretty
 google_analytics:
 disqus_shortname: cmaurini
 
-github: [metadata]
+
 
 # jekyll/scholar config (see https://github.com/inukshuk/jekyll-scholar)
-gems: ['jekyll/scholar']
+plugins:
+   - jekyll-mentions
+   - jemoji
+   - jekyll-redirect-from
+   - jekyll-sitemap
+   - jekyll-feed
+   - jekyll/scholar
+
 mathjax: true
 
 scholar:
