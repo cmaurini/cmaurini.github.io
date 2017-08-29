@@ -14,9 +14,13 @@ of the [d'Alembert Institute](http://www.dalembert.upmc.fr/ijlrda/).
 - [Some research videos](https://www.youtube.com/user/cmaurini)
 - [Contacts](contacts)
 - [List of publications](publications)
-- [researchgate](https://www.researchgate.net/profile/Corrado_Maurini)
+- [Researchgate](https://www.researchgate.net/profile/Corrado_Maurini)
 
+I am responsable of two master programs at UPMC:
+- [Mécanique du solide et génie civil](http://www.master.spi.upmc.fr/fr/mecanique-des-solides-et-du-genie-civil.html)
+- [Computational Mechanics](http://www.master.spi.upmc.fr/fr/computational-mechanics.html)
 
+Their are open to international students.
 
 ## Research
 My current research interests include stability of structures,
