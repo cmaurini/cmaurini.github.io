@@ -11,15 +11,15 @@ The [H.D.R report](http://www.lmm.jussieu.fr/~corrado/articles/hdr-small.pdf) gi
 
 If you are further interested in my work please contact me by mail.
 
-
 ## Fracture and damage mechanics
-
-![]({{site.baseurl}}/images/Wafer-init-0_28Mnd-tridelaunay-0144.pdf)
-
 I study fracture and damage mechanics in the framework of the variational approach
  to fracture. My interest focus on the links between gradient damage models and brittle fracture, and the use of damage models as phase-field models of fracture.
 In a series of works, we have shown how crack nucleation can be studied  as a problem of structural instability and how the morphogenisis of complex crack patterns can be predicted by a bifurcation analysis.
 I work also on numerical developments to improve the efficiency of the available HPC tecniques for phase-field models of fracture. I distribute several open-source codes to reproduce the results of my papers and, hopefully, serve as examples for others.
+
+<img style="float: center; margin: 0px 0px 0px 0px;" src="{{site.baseurl}}/images/Wafer-init-0_28Mnd-tridelaunay-0144.pdf" width="200" />
+<img style="float: center; margin: 0px 0px 0px 0px;" src="{{site.baseurl}}/images/tshock.png" width="200" />
+
 
 ## Morphing structures
 
