@@ -1,4 +1,5 @@
 bundle exec jekyll build
+rsync -avzr ../articles/ corrado@bipbip.lmm.jussieu.fr:~/public_html/articles
 rsync -avzr _site/ corrado@bipbip.lmm.jussieu.fr:~/public_html/_site
 git checkout source
 git add *
