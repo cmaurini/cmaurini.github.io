@@ -1,1 +1,1 @@
-Sitemap: http://www.lmm.jussieu.fr/~corrado/_site/http://www.lmm.jussieu.fr/~corrado/_site/sitemap.xml
+Sitemap: http://www.lmm.jussieu.fr/corrado/_site/http://www.lmm.jussieu.fr/~corrado/_site/sitemap.xml

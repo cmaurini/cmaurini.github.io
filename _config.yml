@@ -1,7 +1,7 @@
 # Site settings
 title: Corrado Maurini
 baseurl: "http://www.lmm.jussieu.fr/~corrado/_site"
-url: "http://www.lmm.jussieu.fr/~corrado/_site"
+url: "http://www.lmm.jussieu.fr/corrado/_site"
 
 # Build settings
 
@@ -17,7 +17,7 @@ permalink: pretty
 
 # Third-party services
 # just leave blank to disable it
-google_analytics:
+google_analytics: UA-2684436-1
 disqus_shortname: cmaurini
 
 
