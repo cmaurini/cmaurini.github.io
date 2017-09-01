@@ -30,20 +30,21 @@
         }
   </style>
 
-<title>{{ site.title }}{% if page.title %}{{ " - " | prepend: page.title }}{% endif %}</title>
+<title>{{ site.title }}</title>
 
 
 <nav class="navbar navbar-default">
   <div class="container-fluid">
     <div class="navbar-header">
-      <a class="navbar-brand" href="/index">{{ site.title }}</a>
+      <a class="navbar-brand" href="{{site.baseurl}}">{{ site.title }}</a>
     </div>
     <ul class="nav navbar-nav">
-      <li><a href="/publications">Publications</a></li>
-      <li><a href="/research">Research</a></li>
-      <li><a href="/contacts">Teaching</a></li>
-      <li><a href="/contacts">Contacts</a></li>
-      <li><a href="/archives">News</a></li>
+      <li><a href="{{site.baseurl}}/publications">Publications</a></li>
+      <li><a href="{{site.baseurl}}/research">Research</a></li>
+      <li><a href="{{site.baseurl}}/teaching">Teaching</a></li>
+      <li><a href="{{site.baseurl}}/codes" >Codes</a></li>
+      <li><a href="{{site.baseurl}}/contacts">Contacts</a></li>
+      <li><a href="{{site.baseurl}}/archives">News</a></li>
     </ul>
   </div>
 </nav>
