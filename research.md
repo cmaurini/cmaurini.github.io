@@ -30,11 +30,11 @@ In a series of works, we studied the multistable of shells and its dependence on
 
 ## Nonlinear elasticity
 
-- [Buckling of an elasti ridge](http://www.dalembert.upmc.fr/alazarus/Publications/2017-Physical-Review-Letters-Lestringant.pdf)
+[Buckling of an elastic ridge](http://www.dalembert.upmc.fr/alazarus/Publications/2017-Physical-Review-Letters-Lestringant.pdf)
 
 ![]({{site.baseurl}}/images/ridge.pdf)
 
-- [Deformation of a soft solid by capillary effects](http://www.lmm.jussieu.fr/%7ecorrado/articles/cm-a13-MorMauPho.pdf)
+[Deformation of a soft solid by capillary effects](http://www.lmm.jussieu.fr/%7ecorrado/articles/cm-a13-MorMauPho.pdf)
 
 ![]({{site.baseurl}}/images/boxgamma05.png)
 
