@@ -46,17 +46,17 @@ During my Ph.D. I study the passive vibration control of mechanical structures t
 
 Some co-authors and friends:
 
- - (B. Audoly)[http://www.lmm.jussieu.fr/%7Eaudoly/], Laboratoire de Mécanique des Solides, Ecole Polytechnique/CNRS
- - (J.F. Babadjian)[https://www.math.u-psud.fr/~babadjian/], Laboratoire Jacques-Louis Lions, UPMC/CNRS
- - (B. Bourdin)[https://www.math.lsu.edu/~bourdin/], Dept. of Mathematics, Lousiana State University, US
- - (M. Destrade)[http://www.maths.nuigalway.ie/~destrade/], Nationa University of Galway, Irland
- - (G. Gauthier)[https://www.researchgate.net/profile/Georges_Gauthier], FAST, Paris 11/UPMC/CNRS
- - (D. Henao Manrique)[http://www.mat.uc.cl/~dhenao/], Fac. de Matemáticas, Pont. Univ. Cat. de Chile
- - (A. Lazarus)[http://www.dalembert.upmc.fr/home/lazarus/], Institut Jean Le Rond d'Alembert, UMPC/CNRS
- - (V. Lazarus)[http://www.fast.u-psud.fr/~lazarus/], FAST, Paris 11/UPMC/CNRS
- - (J.-J. Marigo)[https://scholar.google.fr/citations?user=biuIg4EAAAAJ&hl=en], Laboratoire de Mécanique des Solides, Ecole Polytechnique
- - (S. Neukirch)[http://www.lmm.jussieu.fr/~neukirch/], Institut Jean Le Rond d'Alembert, UMPC/CNRS
- - (S. Mora)[https://transfert.lmgc.univ-montp2.fr/~smora], Institut Coulomb, Université de Montpellier.
- - (K. Seffen)[http://www-civ.eng.cam.ac.uk/struct/kas/], Engineering Department, University of Cambridge, UK
- - (S. Vidoli)[https://sites.google.com/a/uniroma1.it/stefanovidoli/], Dip. Ing. Strutturale e Geotecnica, La Sapienza, Rome, Italy
- - (A. Vincenti)[http://www.dalembert.upmc.fr/home/vincenti/index.php], Institut Jean Le Rond d'Alembert, UMPC/CNRS
+ - [B. Audoly](http://www.lmm.jussieu.fr/%7Eaudoly/), Laboratoire de Mécanique des Solides, Ecole Polytechnique/CNRS
+ - [J.F. Babadjian](https://www.math.u-psud.fr/~babadjian/), Laboratoire Jacques-Louis Lions, UPMC/CNRS
+ - [B. Bourdin](https://www.math.lsu.edu/~bourdin/), Dept. of Mathematics, Lousiana State University, US
+ - [M. Destrade](http://www.maths.nuigalway.ie/~destrade/), Nationa University of Galway, Irland
+ - [G. Gauthier](https://www.researchgate.net/profile/Georges_Gauthier), FAST, Paris 11/UPMC/CNRS
+ - [D. Henao Manrique](http://www.mat.uc.cl/~dhenao/), Fac. de Matemáticas, Pont. Univ. Cat. de Chile
+ - [A. Lazarus](http://www.dalembert.upmc.fr/home/lazarus/), Institut Jean Le Rond d'Alembert, UMPC/CNRS
+ - [V. Lazarus](http://www.fast.u-psud.fr/~lazarus/), FAST, Paris 11/UPMC/CNRS
+ - [J.-J. Marigo](https://scholar.google.fr/citations?user=biuIg4EAAAAJ&hl=en), Laboratoire de Mécanique des Solides, Ecole Polytechnique
+ - [S. Neukirch](http://www.lmm.jussieu.fr/~neukirch/), Institut Jean Le Rond d'Alembert, UMPC/CNRS
+ - [S. Mora](https://transfert.lmgc.univ-montp2.fr/~smora), Institut Coulomb, Université de Montpellier.
+ - [K. Seffen](http://www-civ.eng.cam.ac.uk/struct/kas/), Engineering Department, University of Cambridge, UK
+ - [S. Vidoli](https://sites.google.com/a/uniroma1.it/stefanovidoli/), Dip. Ing. Strutturale e Geotecnica, La Sapienza, Rome, Italy
+ - [A. Vincenti](http://www.dalembert.upmc.fr/home/vincenti/index.php), Institut Jean Le Rond d'Alembert, UMPC/CNRS
