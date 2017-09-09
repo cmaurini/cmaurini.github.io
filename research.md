@@ -32,12 +32,11 @@ In a series of works, we studied the multistable of shells and its dependence on
 
 [Buckling of an elastic ridge](http://www.dalembert.upmc.fr/alazarus/Publications/2017-Physical-Review-Letters-Lestringant.pdf)
 
-![]({{site.baseurl}}/images/ridge.pdf)
+<img style="float: center; margin: 0px 0px 0px 0px;" src="{{site.baseurl}}/images/ridge.pdf" width="300" />
 
 [Deformation of a soft solid by capillary effects](http://www.lmm.jussieu.fr/%7ecorrado/articles/cm-a13-MorMauPho.pdf)
 
-![]({{site.baseurl}}/images/boxgamma05.png)
-
+<img style="float: center; margin: 0px 0px 0px 0px;" src="{{site.baseurl}}/images/boxgamma05.png" width="300" />
 
 ## Piezoelectric structure and vibration control
 During my Ph.D. I study the passive vibration control of mechanical structures trhough distributed piezoelectric transducers and resonant electric network. It the comporary terminology, we designed, fabricated and tested electromechanical meta-materials for dissipating mechanical vibrations in electric circuits. This kind of ideas recently received a renovated interest.
@@ -50,13 +49,15 @@ Some co-authors and friends:
  - [J.F. Babadjian](https://www.math.u-psud.fr/~babadjian/), Laboratoire Jacques-Louis Lions, UPMC/CNRS
  - [B. Bourdin](https://www.math.lsu.edu/~bourdin/), Dept. of Mathematics, Lousiana State University, US
  - [M. Destrade](http://www.maths.nuigalway.ie/~destrade/), Nationa University of Galway, Irland
+ - [P. Farrell](http://www.pefarrell.org), Univ. of Oxford
  - [G. Gauthier](https://www.researchgate.net/profile/Georges_Gauthier), FAST, Paris 11/UPMC/CNRS
+ - [J. Hale](https://wwwfr.uni.lu/recherche/fstc/research_unit_in_engineering_sciences_rues/members/jack_hale), Univ. of Luxembourg
  - [D. Henao Manrique](http://www.mat.uc.cl/~dhenao/), Fac. de Matemáticas, Pont. Univ. Cat. de Chile
  - [A. Lazarus](http://www.dalembert.upmc.fr/home/lazarus/), Institut Jean Le Rond d'Alembert, UMPC/CNRS
  - [V. Lazarus](http://www.fast.u-psud.fr/~lazarus/), FAST, Paris 11/UPMC/CNRS
  - [J.-J. Marigo](https://scholar.google.fr/citations?user=biuIg4EAAAAJ&hl=en), Laboratoire de Mécanique des Solides, Ecole Polytechnique
  - [S. Neukirch](http://www.lmm.jussieu.fr/~neukirch/), Institut Jean Le Rond d'Alembert, UMPC/CNRS
- - [S. Mora](https://transfert.lmgc.univ-montp2.fr/~smora), Institut Coulomb, Université de Montpellier.
+ - [S. Mora](https://transfert.lmgc.univ-montp2.fr/~smora), Institut Coulomb, Université de Montpellier
  - [K. Seffen](http://www-civ.eng.cam.ac.uk/struct/kas/), Engineering Department, University of Cambridge, UK
  - [S. Vidoli](https://sites.google.com/a/uniroma1.it/stefanovidoli/), Dip. Ing. Strutturale e Geotecnica, La Sapienza, Rome, Italy
  - [A. Vincenti](http://www.dalembert.upmc.fr/home/vincenti/index.php), Institut Jean Le Rond d'Alembert, UMPC/CNRS
