@@ -27,17 +27,17 @@ Slender structures may experience large global changes of their shape with small
 
 In a series of works, we studied the multistable of shells and its dependence on on the material properties, the initial shape and the prestresses. We show how active materials (piezoelectric actuators) can be effectively used to control their shape.
 
-<img style="float: center; margin: 0px 0px 0px 0px;" src="{{site.baseurl}}/images/coverimage-cm.pdf" width="500" />
+<img style="float: center; margin: 0px 0px 0px 0px;" src="{{site.baseurl}}/images/coverimage-cm.pdf" width="400" />
 
 ## Nonlinear elasticity
 
 [Buckling of an elastic ridge](http://www.dalembert.upmc.fr/alazarus/Publications/2017-Physical-Review-Letters-Lestringant.pdf)
 
-<img style="float: center; margin: 0px 0px 0px 0px;" src="{{site.baseurl}}/images/ridge.pdf" width="500" />
+<img style="float: center; margin: 0px 0px 0px 0px;" src="{{site.baseurl}}/images/ridge.pdf" width="400" />
 
 [Deformation of a soft solid by capillary effects](http://www.lmm.jussieu.fr/%7ecorrado/articles/cm-a13-MorMauPho.pdf)
 
-<img style="float: center; margin: 0px 0px 0px 0px;" src="{{site.baseurl}}/images/boxgamma05.png" width="500" />
+<img style="float: center; margin: 0px 0px 0px 0px;" src="{{site.baseurl}}/images/boxgamma05.png" width="400" />
 
 ## Piezoelectric structure and vibration control
 During my Ph.D. I study the passive vibration control of mechanical structures trhough distributed piezoelectric transducers and resonant electric network. It the comporary terminology, we designed, fabricated and tested electromechanical meta-materials for dissipating mechanical vibrations in electric circuits. This kind of ideas recently received a renovated interest.
