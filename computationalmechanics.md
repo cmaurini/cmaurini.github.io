@@ -1,10 +1,8 @@
 ---
 layout: page
-title: compmech
+title: Master in Computational Mechanics
 date:   2017-08-26 19:02:34 +0800
 ---
-
-# Master Computational Mechanics
 
 The official website is here:
 
