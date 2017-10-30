@@ -4,9 +4,9 @@ title: codes
 date:   2017-08-26 19:02:34 +0800
 ---
 - Gradient damage models and variational phase-field models of fracture
-    - Demo codes used at the cism-iutam summer school on variational fracture [http://www.cism.it/courses/C1304/]()
+    - Demo codes used at the cism-iutam summer school on variational fracture [http://www.cism.it/courses/C1304/](http://www.cism.it/courses/C1304/)
 
-        (https://bitbucket.org/cmaurini/varfrac_for_cism](https://bitbucket.org/cmaurini/varfrac_for_cism)
+        [https://bitbucket.org/cmaurini/varfrac_for_cism](https://bitbucket.org/cmaurini/varfrac_for_cism)
 
       where you can elementary examples for the implementation of gradient-damage models in FEniCS
 
