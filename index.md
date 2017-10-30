@@ -31,12 +31,16 @@ plates and shells, large deformations and instabilities in soft solids.
 - Multistable plates and shells
 - Nonlinear elasticity
 
+You can find further details in [research](research)
+
 # Teaching
 I teach several classes at UPMC including
 - *Equilibre stabilité et vibrations* (3A103)
 - *Structures élancées* (4AG20)
 - *Nonlinear finite element analysis* (5AG07)
 - *Projects in structural mechanics*.
+
+You can find further details in [teaching](teaching)
 
 
 # Open source codes
