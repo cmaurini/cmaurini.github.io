@@ -22,8 +22,5 @@ date:   2017-08-26 19:02:34 +0800
 
     - [https://bitbucket.org/unilucompmech/fenics-shells](https://bitbucket.org/unilucompmech/fenics-shells)
 
-- Plates and shells, where we are trying to provide a simple and efficient implementation of shell models in FEniCS
-
-    - [https://bitbucket.org/unilucompmech/fenics-shells](https://bitbucket.org/unilucompmech/fenics-shells)
 
 See also my pages on [bitbucket](https://bitbucket.org/cmaurini/) and [github](https://github.com/cmaurini), where I usually host my codes.
