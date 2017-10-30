@@ -5,8 +5,8 @@
     <description></description>
     <link>http://www.lmm.jussieu.fr/corrado/_sitehttp://www.lmm.jussieu.fr/~corrado/_site/</link>
     <atom:link href="http://www.lmm.jussieu.fr/corrado/_sitehttp://www.lmm.jussieu.fr/~corrado/_site/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 30 Oct 2017 13:33:12 +0100</pubDate>
-    <lastBuildDate>Mon, 30 Oct 2017 13:33:12 +0100</lastBuildDate>
+    <pubDate>Mon, 30 Oct 2017 13:49:44 +0100</pubDate>
+    <lastBuildDate>Mon, 30 Oct 2017 13:49:44 +0100</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
@@ -19,7 +19,7 @@ Several validation and verification numerical experiments are provided.&lt;/p&gt
 
 &lt;p&gt;Codes used in this paper can be found here: &lt;a href=&quot;https://bitbucket.org/cmaurini/gradient-damage&quot;&gt;https://bitbucket.org/cmaurini/gradient-damage&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img style=&quot;float: center; margin: 0px 0px 0px 0px;&quot; src=&quot;http://www.lmm.jussieu.fr/~corrado/_site/images/InitiationIllustration.pdf&quot; width=&quot;300&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img style=&quot;float: center; margin: 0px 0px 0px 0px;&quot; src=&quot;http://www.lmm.jussieu.fr/~corrado/_site/images/InitiationIllustration.png&quot; width=&quot;300&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 class=&quot;bibliography&quot;&gt;2018&lt;/h2&gt;
 &lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;cm-a-2017-jmps&quot;&gt;Tanné, E., Li, T., Bourdin, B., Marigo, J.-J., &amp;amp; Maurini, C. (2018). Crack nucleation in variational phase-field models of brittle fracture. &lt;i&gt;Journal of the Mechanics and Physics of Solids&lt;/i&gt;, &lt;i&gt;110&lt;/i&gt;(Supplement C), 80–99. https://doi.org/10.1016/j.jmps.2017.09.006&lt;/span&gt;
