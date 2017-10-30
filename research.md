@@ -17,7 +17,7 @@ I study fracture and damage mechanics in the framework of the variational approa
 In a series of works, we have shown how crack nucleation can be studied  as a problem of structural instability and how the morphogenisis of complex crack patterns can be predicted by a bifurcation analysis.
 I work also on numerical developments to improve the efficiency of the available HPC tecniques for phase-field models of fracture. I distribute several open-source codes to reproduce the results of my papers and, hopefully, serve as examples for others.
 
-<img style="float: center; margin: 0px 0px 0px 0px;" src="{{site.baseurl}}/images/Wafer-init-0_28Mnd-tridelaunay-0144.pdf" width="200" />
+<img style="float: center; margin: 0px 0px 0px 0px;" src="{{site.baseurl}}/images/Wafer-init-0_28Mnd-tridelaunay-0144.png" width="200" />
 <img style="float: center; margin: 0px 0px 0px 0px;" src="{{site.baseurl}}/images/tshock.png" width="200" />
 
 
@@ -27,7 +27,7 @@ Slender structures may experience large global changes of their shape with small
 
 In a series of works, we studied the multistable of shells and its dependence on on the material properties, the initial shape and the prestresses. We show how active materials (piezoelectric actuators) can be effectively used to control their shape.
 
-<img style="float: center; margin: 0px 0px 0px 0px;" src="{{site.baseurl}}/images/coverimage-cm.pdf" width="400" />
+<img style="float: center; margin: 0px 0px 0px 0px;" src="{{site.baseurl}}/images/coverimage-cm.png" width="400" />
 
 ## Nonlinear elasticity
 

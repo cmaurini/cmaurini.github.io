@@ -13,6 +13,6 @@ Codes used in this paper can be found here: [https://bitbucket.org/cmaurini/grad
 
 
 <img style="float: center; margin: 0px 0px 0px 0px;"
-src="{{site.baseurl}}/images/InitiationIllustration.pdf" width="300" />
+src="{{site.baseurl}}/images/InitiationIllustration.png" width="300" />
 
 {% bibliography --file cm-articles.bib --cited%}

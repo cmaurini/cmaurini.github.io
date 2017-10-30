@@ -13,6 +13,5 @@ date:   2017-08-26 19:02:34 +0800
 
 {% bibliography --query @phdthesis --file cm-articles.bib %}
 
-
 # Proceedings
 {% bibliography --query @* --file cm-proceedings.bib%}
