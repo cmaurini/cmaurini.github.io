@@ -4,7 +4,7 @@ date:   2017-08-26 19:02:34 +0800
 ---
 <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
 
-## About
+# About
 I am Full Professor in Mechanics at the [Université Pierre et Marie Curie](http://www.upmc.fr).
 I work in the [MISES group](http://www.dalembert.upmc.fr/mises/index.php)
 of the [d'Alembert Institute](http://www.dalembert.upmc.fr/ijlrda/).
@@ -22,7 +22,7 @@ I am responsable of the following two master programs at UPMC. Their are open to
 
 
 
-## Research
+# Research
 My current research interests include stability of structures,
 fracture and damage mechanics, computational mechanics,
 plates and shells, large deformations and instabilities in soft solids.
@@ -31,7 +31,7 @@ plates and shells, large deformations and instabilities in soft solids.
 - Multistable plates and shells
 - Nonlinear elasticity
 
-## Teaching
+# Teaching
 I teach several classes at UPMC including
 - *Equilibre stabilité et vibrations* (3A103)
 - *Structures élancées* (4AG20)
@@ -39,10 +39,10 @@ I teach several classes at UPMC including
 - *Projects in structural mechanics*.
 
 
-## Open source codes
+# Open source codes
 You find [here](codes) few repositories with codes I develop and use for my research and teaching. Those codes are based on [FEniCS](https://fenicsproject.org) and meant mainly to serve as examples for further developments.
 
-## Posts
+# Posts
 <div class="home">
 	<section>
 		<ul class="post-list">

@@ -1,14 +1,13 @@
 ---
 layout: post
-title:  Styles for slim
+title:  Styles for this theme
 date:   2015-11-16  00:00:00
 ---
 
-slim is a simple and beautiful jekyll theme, it has only the essential functions
-so that you can concentrate on the content of your blog.
-
 Now, let's have a glance at the basic styles: [link](http://github.com/syaning/vida),
 **strong**, *italic*, <del>deletion</del>, <ins>insertion</ins>.
+
+Bibliography uses [jekyll-scholar](https://github.com/inukshuk/jekyll-scholar)
 
 <hr>
 
