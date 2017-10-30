@@ -12,13 +12,14 @@
 
   <link href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/cosmo/bootstrap.min.css" rel="stylesheet" integrity="sha384-h21C2fcDk/eFsW9sC9h0dhokq5pDinLNklTKoxIZRUn3+hvmgQSffLLQ4G4l2eEr" crossorigin="anonymous">
 
-  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
 
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
 
   <link rel="stylesheet" href="http://www.lmm.jussieu.fr/~corrado/_site/css/main.css">
+
 
   <link rel="canonical" href="http://www.lmm.jussieu.fr/corrado/_sitehttp://www.lmm.jussieu.fr/~corrado/_site/2015/11/16/styles-for-slim/">
 
@@ -27,11 +28,10 @@
   <style type="text/css">
     h2 {
         font-size: 2rem;
-        color: red;
-
+        color: #ff0066;
         }
     h1 {
-        color: red;
+        color: #ff0066;
         font-size: 2.5rem;
         }
   </style>
@@ -39,37 +39,61 @@
 <title>Corrado Maurini</title>
 
 
+
 <nav class="navbar navbar-default">
   <div class="container-fluid">
     <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
       <a class="navbar-brand" href="http://www.lmm.jussieu.fr/~corrado/_site">Corrado Maurini</a>
     </div>
-    <ul class="nav navbar-nav">
-      <li><a href="http://www.lmm.jussieu.fr/~corrado/_site/publications">Publications</a></li>
-      <li><a href="http://www.lmm.jussieu.fr/~corrado/_site/research">Research</a></li>
-      <li><a href="http://www.lmm.jussieu.fr/~corrado/_site/teaching">Teaching</a></li>
-      <li><a href="http://www.lmm.jussieu.fr/~corrado/_site/codes" >Codes</a></li>
-      <li><a href="http://www.lmm.jussieu.fr/~corrado/_site/contacts">Contacts</a></li>
-      <li><a href="http://www.lmm.jussieu.fr/~corrado/_site/archives">News</a></li>
-    </ul>
+
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+                <li><a href="http://www.lmm.jussieu.fr/~corrado/_site/publications">Publications</a></li>
+                <li><a href="http://www.lmm.jussieu.fr/~corrado/_site/research">Research</a></li>
+                <li><a href="http://www.lmm.jussieu.fr/~corrado/_site/teaching">Teaching</a></li>
+                <li><a href="http://www.lmm.jussieu.fr/~corrado/_site/codes" >Codes</a></li>
+                <li><a href="http://www.lmm.jussieu.fr/~corrado/_site/contacts">Contacts</a></li>
+                <li><a href="http://www.lmm.jussieu.fr/~corrado/_site/archives">News</a></li>
+<!--        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Dropdown <span class="caret"></span></a>
+          <ul class="dropdown-menu" role="menu">
+                <li><a href="http://www.lmm.jussieu.fr/~corrado/_site/publications">Publications</a></li>
+                <li><a href="http://www.lmm.jussieu.fr/~corrado/_site/research">Research</a></li>
+                <li><a href="http://www.lmm.jussieu.fr/~corrado/_site/teaching">Teaching</a></li>
+                <li><a href="http://www.lmm.jussieu.fr/~corrado/_site/codes" >Codes</a></li>
+                <li><a href="http://www.lmm.jussieu.fr/~corrado/_site/contacts">Contacts</a></li>
+                <li><a href="http://www.lmm.jussieu.fr/~corrado/_site/archives">News</a></li>
+          </ul>
+        </li>
+-->
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="http://www.lmm.jussieu.fr/~corrado/_site">Home</a></li>
+      </ul>
+    </div>
   </div>
 </nav>
-</head>
 
+</head>
 
 
     <div class="page-content">
       <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
   <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">Styles for slim</h1>
+    <h1 class="post-title" itemprop="name headline">Styles for this theme</h1>
     <p class="post-meta"><time datetime="2015-11-16T01:00:00+01:00" itemprop="datePublished">Nov 16, 2015</time></p>
   </header>
   <div class="post-content" itemprop="articleBody">
-    <p>slim is a simple and beautiful jekyll theme, it has only the essential functions
-so that you can concentrate on the content of your blog.</p>
-
-<p>Now, let’s have a glance at the basic styles: <a href="http://github.com/syaning/vida">link</a>,
+    <p>Now, let’s have a glance at the basic styles: <a href="http://github.com/syaning/vida">link</a>,
 <strong>strong</strong>, <em>italic</em>, <del>deletion</del>, <ins>insertion</ins>.</p>
+
+<p>Bibliography uses <a href="https://github.com/inukshuk/jekyll-scholar">jekyll-scholar</a></p>
 
 <hr />
 
