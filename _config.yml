@@ -55,7 +55,6 @@ scholar:
 
   bibliography_template: bib
   source: ./_bibliography
-  file=cm-articles.bib
 
 #   details_link: "details"
 #   details_dir:  "bibliography"

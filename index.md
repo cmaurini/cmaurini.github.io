@@ -33,6 +33,8 @@ plates and shells, large deformations and instabilities in soft solids.
 
 You can find further details in [research](research)
 
+<iframe width="200" height="150" src="https://youtu.be/s1kF3GAUsy4 " frameborder="0" allowfullscreen></iframe>
+
 # Teaching
 I teach several classes at UPMC including
 - *Equilibre stabilité et vibrations* (3A103)

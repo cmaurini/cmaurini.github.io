@@ -20,6 +20,8 @@ I work also on numerical developments to improve the efficiency of the available
 <img style="float: center; margin: 0px 0px 0px 0px;" src="{{site.baseurl}}/images/Wafer-init-0_28Mnd-tridelaunay-0144.png" width="200" />
 <img style="float: center; margin: 0px 0px 0px 0px;" src="{{site.baseurl}}/images/tshock.png" width="200" />
 
+<iframe width="200" height="150" src="https://youtu.be/s1kF3GAUsy4" frameborder="0" allowfullscreen></iframe>
+
 #### Some publications on the topic
 {% bibliography --query @article[subject=fracture] --file cm-articles.bib %}
 
@@ -31,6 +33,8 @@ In a series of works, we studied the multistable of shells and its dependence on
 
 For a recent paper, see [here](https://figshare.com/collections/Supplementary_material_from_Multi-parameter_actuation_of_a_neutrally_stable_shell_a_flexible_gear-less_motor_/3843640)
 <img style="float: center; margin: 0px 0px 0px 0px;" src="{{site.baseurl}}/images/coverimage-cm.png" width="400" />
+<iframe width="200" height="150" src="https://youtu.be/s1kF3GAUsy4" frameborder="0" allowfullscreen></iframe>
+<iframe width="200" height="150" src="https://youtu.be/P4Q_CLfgWoU" frameborder="0" allowfullscreen></iframe>
 
 #### Some publications on the topic
 {% bibliography --query @article[subject=shells] --file cm-articles.bib %}
