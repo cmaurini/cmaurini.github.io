@@ -33,7 +33,7 @@ In a series of works, we studied the multistable of shells and its dependence on
 
 [Buckling of an elastic ridge](http://www.dalembert.upmc.fr/alazarus/Publications/2017-Physical-Review-Letters-Lestringant.pdf)
 
-<img style="float: center; margin: 0px 0px 0px 0px;" src="{{site.baseurl}}/images/ridge.pdf" width="400" />
+<img style="float: center; margin: 0px 0px 0px 0px;" src="{{site.baseurl}}/images/ridge.png" width="400" />
 
 [Deformation of a soft solid by capillary effects](http://www.lmm.jussieu.fr/%7ecorrado/articles/cm-a13-MorMauPho.pdf)
 
