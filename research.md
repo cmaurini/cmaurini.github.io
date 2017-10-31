@@ -19,8 +19,8 @@ I work also on numerical developments to improve the efficiency of the available
 
 <img style="float: center; margin: 0px 0px 0px 0px;" src="{{site.baseurl}}/images/Wafer-init-0_28Mnd-tridelaunay-0144.png" width="200" />
 <img style="float: center; margin: 0px 0px 0px 0px;" src="{{site.baseurl}}/images/tshock.png" width="200" />
-<iframe width="480" height="270" src="https://youtu.be/s1kF3GAUsy4" frameborder="0" gesture="media" allowfullscreen></iframe>
-<iframe width="480" height="270" src="https://youtu.be/P4Q_CLfgWoU" frameborder="0" gesture="media" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/P4Q_CLfgWoU" frameborder="0" gesture="media" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/T7Bu-T0isiE" frameborder="0" gesture="media" allowfullscreen></iframe>
 #### Some publications on the topic
 {% bibliography --query @article[subject=fracture] --file cm-articles.bib %}
 
