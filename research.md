@@ -9,7 +9,7 @@ plates and shells, large deformations and instabilities in soft solids.
 
 The [H.D.R report](http://www.lmm.jussieu.fr/~corrado/articles/hdr-small.pdf) gives more details on my works in the period 2006-2014. You find below a short overview.
 
-If you are further interested in my work please contact me by mail.
+If you are further interested in my work please [contact](/contacts) me by mail.
 
 ## Fracture and damage mechanics
 I study fracture and damage mechanics in the framework of the variational approach
@@ -20,6 +20,8 @@ I work also on numerical developments to improve the efficiency of the available
 <img style="float: center; margin: 0px 0px 0px 0px;" src="{{site.baseurl}}/images/Wafer-init-0_28Mnd-tridelaunay-0144.png" width="200" />
 <img style="float: center; margin: 0px 0px 0px 0px;" src="{{site.baseurl}}/images/tshock.png" width="200" />
 
+#### Some publications on the topic
+{% bibliography --query @article[subject=fracture] --file cm-articles.bib %}
 
 ## Morphing structures
 
@@ -27,20 +29,35 @@ Slender structures may experience large global changes of their shape with small
 
 In a series of works, we studied the multistable of shells and its dependence on on the material properties, the initial shape and the prestresses. We show how active materials (piezoelectric actuators) can be effectively used to control their shape.
 
+For a recent paper, see [here](https://figshare.com/collections/Supplementary_material_from_Multi-parameter_actuation_of_a_neutrally_stable_shell_a_flexible_gear-less_motor_/3843640)
 <img style="float: center; margin: 0px 0px 0px 0px;" src="{{site.baseurl}}/images/coverimage-cm.png" width="400" />
+<iframe width="420" height="315" src="https://youtu.be/s1kF3GAUsy4 " frameborder="0" allowfullscreen></iframe>
+
+#### Some publications on the topic
+{% bibliography --query @article[subject=shells] --file cm-articles.bib %}
 
 ## Nonlinear elasticity
 
-[Buckling of an elastic ridge](http://www.dalembert.upmc.fr/alazarus/Publications/2017-Physical-Review-Letters-Lestringant.pdf)
+### [Buckling of an elastic ridge](http://www.dalembert.upmc.fr/alazarus/Publications/2017-Physical-Review-Letters-Lestringant.pdf)
 
 <img style="float: center; margin: 0px 0px 0px 0px;" src="{{site.baseurl}}/images/ridge.png" width="400" />
 
-[Deformation of a soft solid by capillary effects](http://www.lmm.jussieu.fr/%7ecorrado/articles/cm-a13-MorMauPho.pdf)
+See {% cite cm-a17-prl --file cm-articles.bib%}
 
-<img style="float: center; margin: 0px 0px 0px 0px;" src="{{site.baseurl}}/images/boxgamma05.png" width="400" />
+### [Deformation of a soft solid by capillary effects](http://www.lmm.jussieu.fr/%7ecorrado/articles/cm-a13-MorMauPho.pdf)
+
+<img style="float: center; margin: 0px 0px 0px 0px;" src="{{site.baseurl}}/images/Triangle_gamma0_084.png" width="400" />
+
+See {% cite cm-a13-prl --file cm-articles.bib%}
+
+
+#### Some publications on the topic
+{% bibliography --query @article[subject=hyperelasticity] --file cm-articles.bib %}
 
 ## Piezoelectric structure and vibration control
 During my Ph.D. I study the passive vibration control of mechanical structures trhough distributed piezoelectric transducers and resonant electric network. It the comporary terminology, we designed, fabricated and tested electromechanical meta-materials for dissipating mechanical vibrations in electric circuits. This kind of ideas recently received a renovated interest.
+
+{% bibliography --query @article[subject=pzt] --file cm-articles.bib %}
 
 ## Collaborations
 

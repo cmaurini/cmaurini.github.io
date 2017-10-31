@@ -37,7 +37,7 @@ scholar:
   style: apa
   sort_by: year
   order: descending
-  group_by: year
+  group_by: none
   group_order: descending
 
   source: ./_bibliography
@@ -55,6 +55,7 @@ scholar:
 
   bibliography_template: bib
   source: ./_bibliography
+  file=cm-articles.bib
 
 #   details_link: "details"
 #   details_dir:  "bibliography"
