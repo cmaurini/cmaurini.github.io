@@ -13,11 +13,11 @@ of the [d'Alembert Institute](http://www.dalembert.upmc.fr/ijlrda/).
 - [HAL-UPMC with pdfs of my publications](http://hal.upmc.fr/search/index/?q=authFullName_t%3A%28Maurini+Corrado%29&submit=)
 - [Some research videos](https://www.youtube.com/user/cmaurini)
 - [Contacts](_site/contacts/)
-- [List of publications](_site/publications/)
+- [List of publications](publications/)
 - [Researchgate](https://www.researchgate.net/profile/Corrado_Maurini)
 
 I am responsable of the following two master programs at UPMC. Their are open to international students.
-- [Mécanique des solides et du Génie Civil](http://www.master.spi.upmc.fr/fr/mecanique-des-solides-et-du-genie-civil.html)
+- [Mécanique des Solides et du Génie Civil](http://www.master.spi.upmc.fr/fr/mecanique-des-solides-et-du-genie-civil.html)
 - [Computational Mechanics](http://www.master.spi.upmc.fr/fr/computational-mechanics.html)
 
 
