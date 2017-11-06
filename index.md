@@ -12,8 +12,8 @@ of the [d'Alembert Institute](http://www.dalembert.upmc.fr/ijlrda/).
 - <a href="https://orcid.org/0000-0003-1092-4461" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0003-1092-4461</a>
 - [HAL-UPMC with pdfs of my publications](http://hal.upmc.fr/search/index/?q=authFullName_t%3A%28Maurini+Corrado%29&submit=)
 - [Some research videos](https://www.youtube.com/user/cmaurini)
-- [Contacts](contacts)
-- [List of publications](publications)
+- [Contacts]({{ "/contacts/" | prepend: site.baseurl }}")
+- [List of publications]({{ "/publications/" | prepend: site.baseurl }}")
 - [Researchgate](https://www.researchgate.net/profile/Corrado_Maurini)
 
 I am responsable of the following two master programs at UPMC. Their are open to international students.
