@@ -10,7 +10,8 @@ I work in the [MISES group](http://www.dalembert.upmc.fr/mises/index.php)
 of the [d'Alembert Institute](http://www.dalembert.upmc.fr/ijlrda/).
 
 
-- [List of publications]("{{site.baseurl}}/publications")- [HAL-UPMC with pdfs of my publications](http://hal.upmc.fr/search/index/?q=authFullName_t%3A%28Maurini+Corrado%29&submit=)
+- <a href="{{site.baseurl}}/publications">List of publications</a>
+- [HAL-UPMC with pdfs of my publications](http://hal.upmc.fr/search/index/?q=authFullName_t%3A%28Maurini+Corrado%29&submit=)
 - [Some research videos](https://www.youtube.com/user/cmaurini)
 - [Contacts]("{{site.baseurl}}/contacts")
 - [Researchgate](https://www.researchgate.net/profile/Corrado_Maurini)
