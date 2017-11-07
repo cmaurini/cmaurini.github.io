@@ -14,7 +14,7 @@ date:   2017-08-26 19:02:34 +0800
 
     - [https://bitbucket.org/pefarrell/varfrac-solvers](https://bitbucket.org/pefarrell/varfrac-solvers)
 
-- Strain-gradient damage (supplementary material to a paper currently under review): https://bitbucket.org/cmaurini/gd-vs-sd-damagemodels
+- Strain-gradient damage (supplementary material to a paper currently under review): [https://bitbucket.org/cmaurini/gd-vs-sd-damagemodels](https://bitbucket.org/cmaurini/gd-vs-sd-damagemodels)
 
 - Plates and shells, where we are trying to provide a simple and efficient implementation of shell models in FEniCS
 
