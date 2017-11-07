@@ -9,7 +9,7 @@ plates and shells, large deformations and instabilities in soft solids.
 
 The [H.D.R report](http://www.lmm.jussieu.fr/~corrado/articles/hdr-small.pdf) gives more details on my works in the period 2006-2014. You find below a short overview.
 
-If you are further interested in my work please [contact](/contacts) me by mail.
+If you are further interested in my work please <a href="{{site.baseurl}}/contact">Contacts</a>  me by mail.
 
 ## Fracture and damage mechanics
 I study fracture and damage mechanics in the framework of the variational approach
