@@ -13,7 +13,7 @@ of the [d'Alembert Institute](http://www.dalembert.upmc.fr/ijlrda/).
 - <a href="{{site.baseurl}}/publications">List of publications</a>
 - [HAL-UPMC with pdfs of my publications](http://hal.upmc.fr/search/index/?q=authFullName_t%3A%28Maurini+Corrado%29&submit=)
 - [Some research videos](https://www.youtube.com/user/cmaurini)
-- [Contacts]("{{site.baseurl}}/contacts")
+- <a href="{{site.baseurl}}/contacts">Contacts</a>
 - [Researchgate](https://www.researchgate.net/profile/Corrado_Maurini)
 - <a href="https://orcid.org/0000-0003-1092-4461" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0003-1092-4461</a>
 
@@ -32,7 +32,8 @@ plates and shells, large deformations and instabilities in soft solids.
 - Multistable plates and shells
 - Nonlinear elasticity
 
-You can find further details in [research]("{{site.baseurl}}/research")
+You can find further details in
+<a href="{{site.baseurl}}/research">research</a>
 
 # Teaching
 I teach several classes at UPMC including
@@ -41,11 +42,12 @@ I teach several classes at UPMC including
 - *Nonlinear finite element analysis* (5AG07)
 - *Projects in structural mechanics*.
 
-You can find further details in [teaching]("{{site.baseurl}}/teaching")
+You can find further details in
+<a href="{{site.baseurl}}/teaching">teaching</a>
 
 
 # Open source codes
-You find [here]("{{site.baseurl}}/codes") few repositories with codes I develop and use for my research and teaching. Those codes are based on [FEniCS](https://fenicsproject.org) and meant mainly to serve as examples for further developments.
+You find [<a href="{{site.baseurl}}/here">here</a> few repositories with codes I develop and use for my research and teaching. Those codes are based on [FEniCS](https://fenicsproject.org) and meant mainly to serve as examples for further developments.
 
 # Posts
 <div class="home">

@@ -28,7 +28,7 @@ plugins:
    - jemoji
    - jekyll-redirect-from
    - jekyll-sitemap
-   - jekyll-feed
+#   - jekyll-feed
    - jekyll/scholar
 
 mathjax: true
