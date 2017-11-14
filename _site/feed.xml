@@ -5,9 +5,24 @@
     <description></description>
     <link>http://www.lmm.jussieu.fr/corrado/_sitehttp://www.lmm.jussieu.fr/~corrado/_site/</link>
     <atom:link href="http://www.lmm.jussieu.fr/corrado/_sitehttp://www.lmm.jussieu.fr/~corrado/_site/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 07 Nov 2017 23:01:32 +0100</pubDate>
-    <lastBuildDate>Tue, 07 Nov 2017 23:01:32 +0100</lastBuildDate>
+    <pubDate>Tue, 14 Nov 2017 01:31:40 +0100</pubDate>
+    <lastBuildDate>Tue, 14 Nov 2017 01:31:40 +0100</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>Notebook on variational fracture</title>
+        <description>&lt;p&gt;You can find here an interactive notebook with a tutorial on the implementation of gradient damage models and their use to simulate brittle fracture:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://notebooks.azure.com/cmaurini/libraries/varfrac&quot;&gt;&lt;img src=&quot;https://notebooks.azure.com/launch.png&quot; alt=&quot;Azure Notebooks&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;You can play with it interactively (the basic account on azure is free).&lt;/p&gt;
+</description>
+        <pubDate>Mon, 30 Oct 2017 01:00:00 +0100</pubDate>
+        <link>http://www.lmm.jussieu.fr/corrado/_sitehttp://www.lmm.jussieu.fr/~corrado/_site/2017/10/30/varfrac-notebook/</link>
+        <guid isPermaLink="true">http://www.lmm.jussieu.fr/corrado/_sitehttp://www.lmm.jussieu.fr/~corrado/_site/2017/10/30/varfrac-notebook/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Crack nucleation paper</title>

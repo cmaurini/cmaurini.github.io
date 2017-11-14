@@ -191,6 +191,7 @@ GEM
       gemoji (~> 3.0)
       html-pipeline (~> 2.2)
       jekyll (>= 3.0)
+    json (2.1.0)
     kramdown (1.14.0)
     latex-decode (0.2.2)
       unicode (~> 0.4)
@@ -245,6 +246,7 @@ DEPENDENCIES
   bootstrap (~> 4.0.0.alpha6)
   github-pages (= 167)
   jekyll-scholar
+  json
 
 BUNDLED WITH
-   1.16.0.pre.3
+   1.16.0
