@@ -5,8 +5,8 @@
     <description></description>
     <link>http://www.lmm.jussieu.fr/corrado/_sitehttp://www.lmm.jussieu.fr/~corrado/_site/</link>
     <atom:link href="http://www.lmm.jussieu.fr/corrado/_sitehttp://www.lmm.jussieu.fr/~corrado/_site/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 14 Nov 2017 01:34:29 +0100</pubDate>
-    <lastBuildDate>Tue, 14 Nov 2017 01:34:29 +0100</lastBuildDate>
+    <pubDate>Tue, 14 Nov 2017 01:34:52 +0100</pubDate>
+    <lastBuildDate>Tue, 14 Nov 2017 01:34:52 +0100</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
@@ -19,7 +19,7 @@
 
 &lt;p&gt;This is the direct link to the tutorial notebook:&lt;/p&gt;
 
-&lt;p&gt;(https://notebooks.azure.com/n/expMbFbw3JM/notebooks/VarFrac.ipynb)&lt;/p&gt;
+&lt;p&gt;(https://notebooks.azure.com/n/expMbFbw3JM/notebooks/VarFrac.ipynb)[https://notebooks.azure.com/n/expMbFbw3JM/notebooks/VarFrac.ipynb]&lt;/p&gt;
 </description>
         <pubDate>Mon, 30 Oct 2017 01:00:00 +0100</pubDate>
         <link>http://www.lmm.jussieu.fr/corrado/_sitehttp://www.lmm.jussieu.fr/~corrado/_site/2017/10/30/varfrac-notebook/</link>
