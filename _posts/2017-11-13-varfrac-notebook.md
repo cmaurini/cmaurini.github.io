@@ -8,7 +8,3 @@ You can find here an interactive notebook with a tutorial on the implementation 
 [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/cmaurini/libraries/varfrac)
 
 You can play with it interactively (the basic account on azure is free).
-
-This is the direct link to the tutorial notebook:
-
-[https://notebooks.azure.com/n/expMbFbw3JM/notebooks/VarFrac.ipynb](https://notebooks.azure.com/n/expMbFbw3JM/notebooks/VarFrac.ipynb)
