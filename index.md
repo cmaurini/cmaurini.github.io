@@ -47,7 +47,7 @@ You can find further details in
 
 
 # Open source codes
-You find [<a href="{{site.baseurl}}/here">here</a> few repositories with codes I develop and use for my research and teaching. Those codes are based on [FEniCS](https://fenicsproject.org) and meant mainly to serve as examples for further developments.
+You find [<a href="{{site.baseurl}}/codes">here</a>] few repositories with codes I develop and use for my research and teaching. Those codes are based on [FEniCS](https://fenicsproject.org) and meant mainly to serve as examples for further developments.
 
 # Posts
 <div class="home">
