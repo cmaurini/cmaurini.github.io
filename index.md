@@ -18,8 +18,8 @@ of the [d'Alembert Institute](http://www.dalembert.upmc.fr/ijlrda/).
 - <a href="https://orcid.org/0000-0003-1092-4461" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0003-1092-4461</a>
 
 I am responsable of the following two master programs at UPMC. Their are open to international students.
-- [Mécanique des Solides et du Génie Civil](http://www.master.spi.upmc.fr/fr/mecanique-des-solides-et-du-genie-civil.html)
-- [Computational Mechanics](http://www.master.spi.upmc.fr/fr/computational-mechanics.html)
+- [Mécanique des Solides (Solid Mechanics)](http://master.spi.sorbonne-universite.fr/fr/mecanique-des-solides-et-des-structures.html)
+- [Computational Mechanics](http://master.spi.sorbonne-universite.fr/fr/computational-mechanics.html)
 
 
 
