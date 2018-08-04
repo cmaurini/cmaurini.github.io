@@ -5,9 +5,26 @@
     <description></description>
     <link>http://www.lmm.jussieu.fr/corrado/_sitehttp://www.lmm.jussieu.fr/~corrado/_site/</link>
     <atom:link href="http://www.lmm.jussieu.fr/corrado/_sitehttp://www.lmm.jussieu.fr/~corrado/_site/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 22 May 2018 09:58:28 +0200</pubDate>
-    <lastBuildDate>Tue, 22 May 2018 09:58:28 +0200</lastBuildDate>
+    <pubDate>Sat, 04 Aug 2018 10:43:16 +0200</pubDate>
+    <lastBuildDate>Sat, 04 Aug 2018 10:43:16 +0200</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Fenics-shells paper</title>
+        <description>&lt;p&gt;Our work on simple and extensible finite element implementations of linear and nonlinear plate and shells model in FEniCS is available
+(missing reference).&lt;/p&gt;
+
+&lt;p&gt;You can find the codes and further details here:
+&lt;a href=&quot;https://bitbucket.org/unilucompmech/fenics-shells&quot;&gt;https://bitbucket.org/unilucompmech/fenics-shells&lt;/a&gt;&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;/ol&gt;
+</description>
+        <pubDate>Mon, 30 Oct 2017 01:00:00 +0100</pubDate>
+        <link>http://www.lmm.jussieu.fr/corrado/_sitehttp://www.lmm.jussieu.fr/~corrado/_site/2017/10/30/fenics-shells-paper/</link>
+        <guid isPermaLink="true">http://www.lmm.jussieu.fr/corrado/_sitehttp://www.lmm.jussieu.fr/~corrado/_site/2017/10/30/fenics-shells-paper/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Notebook on variational fracture</title>
