@@ -4,19 +4,22 @@ title: codes
 date:   2017-08-26 19:02:34 +0800
 ---
 - Gradient damage models and variational phase-field models of fracture
-    - Demo codes used at the cism-iutam summer school on variational fracture [http://www.cism.it/courses/C1304/](http://www.cism.it/courses/C1304/):
-        [https://bitbucket.org/cmaurini/varfrac_for_cism](https://bitbucket.org/cmaurini/varfrac_for_cism),
-      where you can elementary examples for the implementation of gradient-damage models in FEniCS
 
     - Supplementary material to {% cite cm-a-2017-jmps --file cm-articles.bib%}:
         [https://bitbucket.org/cmaurini/gradient-damage](https://bitbucket.org/cmaurini/gradient-damage),
-      where  can find  a reasonably complete implementation of gradient-damage models in FEniCS
+      where  you can find  a reasonably complete implementation of gradient-damage models in FEniCS
 
-    - [https://bitbucket.org/pefarrell/varfrac-solvers](https://bitbucket.org/pefarrell/varfrac-solvers)
+    - Supplementary material to {% cite cm-a-16-ijnme --file cm-articles.bib%} where you can find an advanced solver implemented using FEniCS and advanced features of PETSc[https://bitbucket.org/pefarrell/varfrac-solvers](https://bitbucket.org/pefarrell/varfrac-solvers)
+
+    - Demo codes used at the cism-iutam summer school on variational fracture [http://www.cism.it/courses/C1304/](http://www.cism.it/courses/C1304/):
+        [https://bitbucket.org/cmaurini/varfrac_for_cism](https://bitbucket.org/cmaurini/varfrac_for_cism),
+      where you can elementary examples for the implementation of gradient-damage models in FEniCS (can be outdated but useful as a starting examples).
+
+    - A tutorial as jupyter notebooks on Azure that I use for short courses: https://notebooks.azure.com/cmaurini/libraries/varfrac.
 
 - Strain-gradient damage (supplementary material to a paper currently under review): [https://bitbucket.org/cmaurini/gd-vs-sd-damagemodels](https://bitbucket.org/cmaurini/gd-vs-sd-damagemodels)
 
-- Plates and shells, where we are trying to provide a simple and efficient implementation of shell models in FEniCS
+- Plates and shells, where we provide a simple and efficient implementation of shell models in FEniCS described in the paper {% cite cm-a-19-cs --file cm-articles.bib%}
 
     - [https://bitbucket.org/unilucompmech/fenics-shells](https://bitbucket.org/unilucompmech/fenics-shells)
 
