@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Notebook on variational fracture
-date:   2017-10-30  00:00:00
+date:   2017-11-13  00:00:00
 ---
 You can find here an interactive notebook with a tutorial on the implementation of gradient damage models and their use to simulate brittle fracture:
 
