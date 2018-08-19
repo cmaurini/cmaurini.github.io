@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Fenics-shells paper
-date:   2017-10-30  00:00:00
+date:   2018-08-03  00:00:00
 ---
 Our work on simple and extensible finite element implementations of linear and nonlinear plate and shells model in FEniCS is available
 {% cite cm-a-19-cs --file cm-articles.bib%}.
