@@ -9,7 +9,7 @@ date:   2017-08-26 19:02:34 +0800
         [https://bitbucket.org/cmaurini/gradient-damage](https://bitbucket.org/cmaurini/gradient-damage),
       where  you can find  a reasonably complete implementation of gradient-damage models in FEniCS
 
-    - Supplementary material to {% cite cm-a-16-ijnme --file cm-articles.bib%} where you can find an advanced solver implemented using FEniCS and advanced features of PETSc[https://bitbucket.org/pefarrell/varfrac-solvers](https://bitbucket.org/pefarrell/varfrac-solvers)
+    - Supplementary material to {% cite cm-a-16-ijnme --file cm-articles.bib%} where you can find an advanced solver implemented using FEniCS and advanced features of PETSc [https://bitbucket.org/pefarrell/varfrac-solvers](https://bitbucket.org/pefarrell/varfrac-solvers)
 
     - Demo codes used at the cism-iutam summer school on variational fracture [http://www.cism.it/courses/C1304/](http://www.cism.it/courses/C1304/):
         [https://bitbucket.org/cmaurini/varfrac_for_cism](https://bitbucket.org/cmaurini/varfrac_for_cism),
