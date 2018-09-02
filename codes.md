@@ -19,7 +19,7 @@ date:   2017-08-26 19:02:34 +0800
 
 - Strain-gradient damage (supplementary material to a paper currently under review): [https://bitbucket.org/cmaurini/gd-vs-sd-damagemodels](https://bitbucket.org/cmaurini/gd-vs-sd-damagemodels)
 
-- Plates and shells, where we provide a simple and efficient implementation of shell models in FEniCS described in the paper {% cite cm-a-19-cs --file cm-articles.bib%}
+- Plates and shells, where we provide a simple and efficient implementation of shell models in FEniCS described in the paper {% cite cm-a19-cs --file cm-articles.bib%}
 
     - [https://bitbucket.org/unilucompmech/fenics-shells](https://bitbucket.org/unilucompmech/fenics-shells)
 
