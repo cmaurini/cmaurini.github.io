@@ -13,11 +13,11 @@ date:   2017-08-26 19:02:34 +0800
 
     - Demo codes used at the cism-iutam summer school on variational fracture [http://www.cism.it/courses/C1304/](http://www.cism.it/courses/C1304/):
         [https://bitbucket.org/cmaurini/varfrac_for_cism](https://bitbucket.org/cmaurini/varfrac_for_cism),
-      where you can elementary examples for the implementation of gradient-damage models in FEniCS (can be outdated but useful as a starting examples).
+      where you can find elementary examples for the implementation of gradient-damage models in FEniCS (can be outdated but useful as a starting example).
 
     - A tutorial as jupyter notebooks on Azure that I use for short courses: https://notebooks.azure.com/cmaurini/libraries/varfrac.
 
-- Strain-gradient damage (supplementary material to a paper currently under review): [https://bitbucket.org/cmaurini/gd-vs-sd-damagemodels](https://bitbucket.org/cmaurini/gd-vs-sd-damagemodels)
+- Strain-gradient damage, supplementary material to {% cite cm-a18-cmame --file cm-articles.bib%}: [https://bitbucket.org/cmaurini/gd-vs-sd-damagemodels](https://bitbucket.org/cmaurini/gd-vs-sd-damagemodels)
 
 - Plates and shells, where we provide a simple and efficient implementation of shell models in FEniCS described in the paper {% cite cm-a19-cs --file cm-articles.bib%}
 
