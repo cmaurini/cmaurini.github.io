@@ -5,19 +5,19 @@
     <description></description>
     <link>http://www.lmm.jussieu.fr/corrado/_sitehttp://www.lmm.jussieu.fr/~corrado/_site/</link>
     <atom:link href="http://www.lmm.jussieu.fr/corrado/_sitehttp://www.lmm.jussieu.fr/~corrado/_site/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 20 Sep 2018 14:53:19 +0200</pubDate>
-    <lastBuildDate>Thu, 20 Sep 2018 14:53:19 +0200</lastBuildDate>
+    <pubDate>Thu, 20 Sep 2018 14:59:53 +0200</pubDate>
+    <lastBuildDate>Thu, 20 Sep 2018 14:59:53 +0200</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
         <title>Fenics-shells paper</title>
         <description>&lt;p&gt;Our work on simple and extensible finite element implementations of linear and nonlinear plate and shells model in FEniCS is available
-&lt;a href=&quot;#cm-a19-cs&quot;&gt;(Hale, Brunetti, Bordas, &amp;amp; Maurini, 2018 - in press)&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&quot;#cm-a19-cs&quot;&gt;(Hale, Brunetti, Bordas, &amp;amp; Maurini, 2018)&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;You can find the codes and further details here:
 &lt;a href=&quot;https://bitbucket.org/unilucompmech/fenics-shells&quot;&gt;https://bitbucket.org/unilucompmech/fenics-shells&lt;/a&gt;&lt;/p&gt;
 
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;cm-a19-cs&quot;&gt;Hale, J. S., Brunetti, M., Bordas, S. P. A., &amp;amp; Maurini, C. (2018 - in press). Simple and extensible plate and shell finite element models through automatic code generation tools. &lt;i&gt;Computers &amp;amp; Structures&lt;/i&gt;. https://doi.org/10.1016/j.compstruc.2018.08.001&lt;/span&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;cm-a19-cs&quot;&gt;Hale, J. S., Brunetti, M., Bordas, S. P. A., &amp;amp; Maurini, C. (2018). Simple and extensible plate and shell finite element models through automatic code generation tools. &lt;i&gt;Computers &amp;amp; Structures&lt;/i&gt;, &lt;i&gt;209&lt;/i&gt;, 163–181. https://doi.org/10.1016/j.compstruc.2018.08.001&lt;/span&gt;
 
 [&lt;a href=&quot;http://dx.doi.org/10.1016/j.compstruc.2018.08.001&quot;&gt;Publisher&lt;/a&gt;]
 
@@ -28,18 +28,17 @@
 &lt;!--
 
 #&lt;pre&gt;@article{cm-a19-cs,
-  author = {Hale, Jack S. and Brunetti, Matteo and Bordas, St{\'e}phane P.A. and Maurini, Corrado},
-  date-added = {2018-09-02 21:34:45 +0200},
-  date-modified = {2018-09-02 21:34:45 +0200},
-  doi = {10.1016/j.compstruc.2018.08.001},
-  issn = {0045-7949},
-  journal = {Computers &amp; Structures},
-  keywords = {Thin structures, Plates, Shells, Finite element methods, Domain specific language, FEniCS},
   title = {Simple and extensible plate and shell finite element models through automatic code generation tools},
-  url = {https://www.sciencedirect.com/science/article/pii/S0045794918306126},
-  year = {2018 - in press},
+  journal = {Computers &amp; Structures},
+  volume = {209},
+  pages = {163 - 181},
+  year = {2018},
+  issn = {0045-7949},
+  doi = {10.1016/j.compstruc.2018.08.001},
+  url = {http://www.sciencedirect.com/science/article/pii/S0045794918306126},
   pdf = {https://hal.sorbonne-universite.fr/hal-01763370v2/document},
-  bdsk-url-2 = {https://doi.org/10.1016/j.compstruc.2018.08.001}
+  author = {Hale, Jack S. and Brunetti, Matteo and Bordas, Stéphane P.A. and Maurini, Corrado},
+  keywords = {Thin structures, Plates, Shells, Finite element methods, Domain specific language, FEniCS}
 }
 &lt;/pre&gt;
 --&gt;
