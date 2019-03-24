@@ -5,8 +5,8 @@
     <description></description>
     <link>http://www.lmm.jussieu.fr/corrado/_sitehttp://www.lmm.jussieu.fr/~corrado/_site/</link>
     <atom:link href="http://www.lmm.jussieu.fr/corrado/_sitehttp://www.lmm.jussieu.fr/~corrado/_site/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 20 Sep 2018 15:02:35 +0200</pubDate>
-    <lastBuildDate>Thu, 20 Sep 2018 15:02:35 +0200</lastBuildDate>
+    <pubDate>Sun, 24 Mar 2019 14:58:13 +0100</pubDate>
+    <lastBuildDate>Sun, 24 Mar 2019 14:58:13 +0100</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
@@ -91,7 +91,7 @@ Several validation and verification numerical experiments are provided.&lt;/p&gt
 [&lt;a href=&quot;http://dx.doi.org/10.1016/j.jmps.2017.09.006&quot;&gt;Publisher&lt;/a&gt;]
 
 
-[&lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S0022509617306543/pdfft?md5=6fb8a12c3d1dea50a4c10c9095d8bcc2&amp;amp;pid=1-s2.0-S0022509617306543-main.pdf&quot;&gt;Pdf&lt;/a&gt;]
+[&lt;a href=&quot;http://www.lmm.jussieu.fr/%7ecorrado/articles/cm-a18-TanneLiBouMarMau.pdf&quot;&gt;Pdf&lt;/a&gt;]
 
 
 &lt;!--
@@ -109,7 +109,7 @@ Several validation and verification numerical experiments are provided.&lt;/p&gt
   volume = {110},
   year = {2018},
   subject = {fracture},
-  pdf = {https://www.sciencedirect.com/science/article/pii/S0022509617306543/pdfft?md5=6fb8a12c3d1dea50a4c10c9095d8bcc2&amp;pid=1-s2.0-S0022509617306543-main.pdf}
+  pdf = {http://www.lmm.jussieu.fr/%7ecorrado/articles/cm-a18-TanneLiBouMarMau.pdf}
 }
 &lt;/pre&gt;
 --&gt;
