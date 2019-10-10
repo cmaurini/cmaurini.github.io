@@ -5,7 +5,7 @@ date:   2017-08-26 19:02:34 +0800
 <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
 
 # About
-I am Full Professor in Mechanics at the [Sorbonne University](https://www.sorbonne-universite.fr).
+I am Full Professor in Mechanics at [Sorbonne University](https://www.sorbonne-universite.fr).
 I work in the [MISES group](http://www.dalembert.upmc.fr/mises/index.php)
 of the [d'Alembert Institute](http://www.dalembert.upmc.fr/ijlrda/).
 
@@ -22,6 +22,7 @@ I am responsible for the following two master programs at Sorbonne University. T
 - [Computational Mechanics](http://master.spi.sorbonne-universite.fr/fr/computational-mechanics.html)
 
 
+I have an opening for a Ph.D. position starting in october 2020 on variational fracture. If you are potentially interested, send me a mail. Only applications of students with outstanding academic results will be considered.
 
 # Research
 My current research interests include stability of structures,
