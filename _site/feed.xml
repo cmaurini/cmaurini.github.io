@@ -5,14 +5,14 @@
     <description></description>
     <link>http://www.lmm.jussieu.fr/corrado/_sitehttp://www.lmm.jussieu.fr/~corrado/_site/</link>
     <atom:link href="http://www.lmm.jussieu.fr/corrado/_sitehttp://www.lmm.jussieu.fr/~corrado/_site/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 24 Mar 2019 14:58:13 +0100</pubDate>
-    <lastBuildDate>Sun, 24 Mar 2019 14:58:13 +0100</lastBuildDate>
-    <generator>Jekyll v3.7.4</generator>
+    <pubDate>Thu, 10 Oct 2019 17:56:19 +0200</pubDate>
+    <lastBuildDate>Thu, 10 Oct 2019 17:56:19 +0200</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>Fenics-shells paper</title>
         <description>&lt;p&gt;Our work on simple and extensible finite element implementations of linear and nonlinear plate and shells model in FEniCS is available
-&lt;a href=&quot;#cm-a19-cs&quot;&gt;(Hale, Brunetti, Bordas, &amp;amp; Maurini, 2018)&lt;/a&gt;.&lt;/p&gt;
+&lt;a class=&quot;citation&quot; href=&quot;#cm-a19-cs&quot;&gt;(Hale, Brunetti, Bordas, &amp;amp; Maurini, 2018)&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;You can find the codes and further details here:
 &lt;a href=&quot;https://bitbucket.org/unilucompmech/fenics-shells&quot;&gt;https://bitbucket.org/unilucompmech/fenics-shells&lt;/a&gt;&lt;/p&gt;
@@ -77,7 +77,7 @@
       <item>
         <title>Crack nucleation paper</title>
         <description>&lt;p&gt;Our work on crack nucleation in variational phase-field models is available
-&lt;a href=&quot;#cm-a-2017-jmps&quot;&gt;(Tanné, Li, Bourdin, Marigo, &amp;amp; Maurini, 2018)&lt;/a&gt;.
+&lt;a class=&quot;citation&quot; href=&quot;#cm-a-2017-jmps&quot;&gt;(Tanné, Li, Bourdin, Marigo, &amp;amp; Maurini, 2018)&lt;/a&gt;.
 We study gradient-damage models can be used as phase-field model of brittle fracture.
 We show that they correctely account for crack nucleation when appropiately setting the internal length.
 Several validation and verification numerical experiments are provided.&lt;/p&gt;

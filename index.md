@@ -5,7 +5,7 @@ date:   2017-08-26 19:02:34 +0800
 <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
 
 # About
-I am Full Professor in Mechanics at the [Université Pierre et Marie Curie](http://www.upmc.fr).
+I am Full Professor in Mechanics at the [Sorbonne University](https://www.sorbonne-universite.fr).
 I work in the [MISES group](http://www.dalembert.upmc.fr/mises/index.php)
 of the [d'Alembert Institute](http://www.dalembert.upmc.fr/ijlrda/).
 
@@ -17,7 +17,7 @@ of the [d'Alembert Institute](http://www.dalembert.upmc.fr/ijlrda/).
 - [Researchgate](https://www.researchgate.net/profile/Corrado_Maurini)
 - <a href="https://orcid.org/0000-0003-1092-4461" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0003-1092-4461</a>
 
-I am responsable of the following two master programs at UPMC. Their are open to international students.
+I am responsible for the following two master programs at Sorbonne University. Their are open to international students.
 - [Mécanique des Solides (Solid Mechanics)](http://master.spi.sorbonne-universite.fr/fr/mecanique-des-solides-et-des-structures.html)
 - [Computational Mechanics](http://master.spi.sorbonne-universite.fr/fr/computational-mechanics.html)
 
@@ -29,14 +29,14 @@ fracture and damage mechanics, computational mechanics,
 plates and shells, large deformations and instabilities in soft solids.
 
 - Fracture and damage mechanics, variational phase-field models
-- Multistable plates and shells
+- Multi-stable plates and shells
 - Nonlinear elasticity
 
 You can find further details in
 <a href="{{site.baseurl}}/research">research</a>
 
 # Teaching
-I teach several classes at UPMC including
+I teach several classes at Sorbonne including
 - *Equilibre stabilité et vibrations* (3A103)
 - *Structures élancées* (4AG20)
 - *Nonlinear finite element analysis* (5AG07)
