@@ -4,7 +4,9 @@ title: codes
 date:   2017-08-26 19:02:34 +0800
 ---
 - Gradient damage models and variational phase-field models of fracture
-
+    
+    - A tutorial as jupyter notebooks that I use for short courses: [https://colab.research.google.com/github/cmaurini/damage-course/blob/master/notebook/VarFrac.ipynb](https://colab.research.google.com/github/cmaurini/damage-course/blob/master/notebook/VarFrac.ipynb)
+  
     - Supplementary material to {% cite cm-a-2017-jmps --file cm-articles.bib%}:
         [https://bitbucket.org/cmaurini/gradient-damage](https://bitbucket.org/cmaurini/gradient-damage),
       where  you can find  a reasonably complete implementation of gradient-damage models in FEniCS
@@ -15,7 +17,6 @@ date:   2017-08-26 19:02:34 +0800
         [https://bitbucket.org/cmaurini/varfrac_for_cism](https://bitbucket.org/cmaurini/varfrac_for_cism),
       where you can find elementary examples for the implementation of gradient-damage models in FEniCS (can be outdated but useful as a starting example).
 
-    - A tutorial as jupyter notebooks on Azure that I use for short courses: https://notebooks.azure.com/cmaurini/libraries/varfrac.
 
 - Strain-gradient damage, supplementary material to {% cite cm-a18-cmame --file cm-articles.bib%}: [https://bitbucket.org/cmaurini/gd-vs-sd-damagemodels](https://bitbucket.org/cmaurini/gd-vs-sd-damagemodels)
 
