@@ -3,11 +3,65 @@
   <channel>
     <title>Corrado Maurini</title>
     <description></description>
-    <link>http://www.lmm.jussieu.fr/corrado/_sitehttp://www.lmm.jussieu.fr/~corrado/_site/</link>
-    <atom:link href="http://www.lmm.jussieu.fr/corrado/_sitehttp://www.lmm.jussieu.fr/~corrado/_site/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 17 Apr 2021 11:19:51 +0200</pubDate>
-    <lastBuildDate>Sat, 17 Apr 2021 11:19:51 +0200</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 17 Apr 2021 11:38:11 +0200</pubDate>
+    <lastBuildDate>Sat, 17 Apr 2021 11:38:11 +0200</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Crack nucleation paper</title>
+        <description>&lt;p&gt;In our paper &lt;a class=&quot;citation&quot; href=&quot;#cm-a21-jmps&quot;&gt;(León Baldelli &amp;amp; Maurini, 2021)&lt;/a&gt; we discuss the numerical stability and bifurcation analysis of gradient damage models and we provide a algorithm to filter-out unstable evolution.&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;img style=”float: center; margin: 0px 0px 0px 0px;”
+src=”/images/stab_diag.pdf width=”300” /&amp;gt;&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;cm-a21-jmps&quot;&gt;León Baldelli, A. A., &amp;amp; Maurini, C. (2021). Numerical bifurcation and stability analysis of variational gradient-damage models for phase-field fracture. &lt;i&gt;Journal of the Mechanics and Physics of Solids&lt;/i&gt;, &lt;i&gt;152&lt;/i&gt;, 104424. https://doi.org/https://doi.org/10.1016/j.jmps.2021.104424&lt;/span&gt;
+
+[&lt;a href=&quot;http://dx.doi.org/https://doi.org/10.1016/j.jmps.2021.104424&quot;&gt;Publisher&lt;/a&gt;]
+
+
+[&lt;a href=&quot;https://authors.elsevier.com/a/1cw3157Zjzhio&quot;&gt;Pdf&lt;/a&gt;]
+
+
+&lt;!--
+
+// &lt;p&gt;Gradient damage models used in phase-field approaches to brittle fracture are characterised by material softening and instabilities. We present novel numerical techniques for the bifurcation and stability analysis along quasi-static evolution paths as well as practical tools to select stable evolutions. Our approach stems from the variational approach to fracture and the theory of rate-independent irreversible processes whereby a quasi-static evolution is formulated in terms of incremental energy minimisation under unilateral constraints. Focusing on the discrete setting obtained with finite elements techniques, we discuss the links between bifurcation criteria for an evolution and stability of equilibrium states. Key concepts are presented through the analytical solution of a two-degrees-of-freedom model featuring a continuum family of bifurcation branches. We introduce numerical methods to (i) assess (second-order) stability conditions for time-discrete evolutions subject to damage irreversibility, and (ii) to select possible stable evolutions based on an energetic criterion. Our approach is based on the solution of a coupled eigenvalue problem which accounts for the time-discrete irreversibility constraint on damage. Several numerical examples illustrate that this approach allows us to filter out unstable solutions provided by standard (first-order) minimisation algorithms as well as to effectively compute stable evolution paths. We demonstrate our purpose on a multifissuration problem featuring complex fracture patterns, to show how the eigenvalue analysis enables to compute and retrieve morphological properties of emerging cracks.&lt;/p&gt;
+// 
+#&lt;pre&gt;@article{cm-a21-jmps,
+  title = {Numerical bifurcation and stability analysis of variational gradient-damage models for phase-field fracture},
+  journal = {Journal of the Mechanics and Physics of Solids},
+  volume = {152},
+  pages = {104424},
+  year = {2021},
+  subject = {fracture},
+  issn = {0022-5096},
+  pdf = {https://authors.elsevier.com/a/1cw3157Zjzhio},
+  doi = {https://doi.org/10.1016/j.jmps.2021.104424},
+  url = {https://www.sciencedirect.com/science/article/pii/S0022509621001010},
+  author = {{León Baldelli}, Andrés A. and Maurini, Corrado},
+  keywords = {fracture, Damage, Fracture, Stability, Bifurcation, Variational methods}
+}
+&lt;/pre&gt;
+--&gt;
+
+&lt;div id=&quot;cm-a21-jmps-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+
+    
+    &lt;p id=&quot;cm-a21-jmps-abstract&quot; class=&quot;collapse&quot;&gt;Gradient damage models used in phase-field approaches to brittle fracture are characterised by material softening and instabilities. We present novel numerical techniques for the bifurcation and stability analysis along quasi-static evolution paths as well as practical tools to select stable evolutions. Our approach stems from the variational approach to fracture and the theory of rate-independent irreversible processes whereby a quasi-static evolution is formulated in terms of incremental energy minimisation under unilateral constraints. Focusing on the discrete setting obtained with finite elements techniques, we discuss the links between bifurcation criteria for an evolution and stability of equilibrium states. Key concepts are presented through the analytical solution of a two-degrees-of-freedom model featuring a continuum family of bifurcation branches. We introduce numerical methods to (i) assess (second-order) stability conditions for time-discrete evolutions subject to damage irreversibility, and (ii) to select possible stable evolutions based on an energetic criterion. Our approach is based on the solution of a coupled eigenvalue problem which accounts for the time-discrete irreversibility constraint on damage. Several numerical examples illustrate that this approach allows us to filter out unstable solutions provided by standard (first-order) minimisation algorithms as well as to effectively compute stable evolution paths. We demonstrate our purpose on a multifissuration problem featuring complex fracture patterns, to show how the eigenvalue analysis enables to compute and retrieve morphological properties of emerging cracks.&lt;/p&gt;
+  
+ &lt;/ul&gt;
+&lt;/div&gt;
+&lt;/li&gt;&lt;/ol&gt;
+</description>
+        <pubDate>Sat, 17 Apr 2021 02:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2021/04/17/damage-stability/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/04/17/damage-stability/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Fenics-shells paper</title>
@@ -34,6 +88,7 @@
   pages = {163 - 181},
   year = {2018},
   issn = {0045-7949},
+  subject = {shells},
   doi = {10.1016/j.compstruc.2018.08.001},
   url = {http://www.sciencedirect.com/science/article/pii/S0045794918306126},
   pdf = {https://hal.sorbonne-universite.fr/hal-01763370v2/document},
@@ -53,8 +108,8 @@
 &lt;/li&gt;&lt;/ol&gt;
 </description>
         <pubDate>Fri, 03 Aug 2018 02:00:00 +0200</pubDate>
-        <link>http://www.lmm.jussieu.fr/corrado/_sitehttp://www.lmm.jussieu.fr/~corrado/_site/2018/08/03/fenics-shells-paper/</link>
-        <guid isPermaLink="true">http://www.lmm.jussieu.fr/corrado/_sitehttp://www.lmm.jussieu.fr/~corrado/_site/2018/08/03/fenics-shells-paper/</guid>
+        <link>http://localhost:4000/2018/08/03/fenics-shells-paper/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/08/03/fenics-shells-paper/</guid>
         
         
       </item>
@@ -69,7 +124,7 @@ Several validation and verification numerical experiments are provided.&lt;/p&gt
 
 &lt;p&gt;Codes used in this paper can be found here: &lt;a href=&quot;https://bitbucket.org/cmaurini/gradient-damage&quot;&gt;https://bitbucket.org/cmaurini/gradient-damage&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img style=&quot;float: center; margin: 0px 0px 0px 0px;&quot; src=&quot;http://www.lmm.jussieu.fr/~corrado/_site/images/InitiationIllustration.png&quot; width=&quot;300&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img style=&quot;float: center; margin: 0px 0px 0px 0px;&quot; src=&quot;/images/InitiationIllustration.png&quot; width=&quot;300&quot; /&gt;&lt;/p&gt;
 
 &lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;cm-a-2017-jmps&quot;&gt;Tanné, E., Li, T., Bourdin, B., Marigo, J.-J., &amp;amp; Maurini, C. (2018). Crack nucleation in variational phase-field models of brittle fracture. &lt;i&gt;Journal of the Mechanics and Physics of Solids&lt;/i&gt;, &lt;i&gt;110&lt;/i&gt;(Supplement C), 80–99. https://doi.org/10.1016/j.jmps.2017.09.006&lt;/span&gt;
 
@@ -109,8 +164,8 @@ Several validation and verification numerical experiments are provided.&lt;/p&gt
 &lt;/li&gt;&lt;/ol&gt;
 </description>
         <pubDate>Mon, 30 Oct 2017 01:00:00 +0100</pubDate>
-        <link>http://www.lmm.jussieu.fr/corrado/_sitehttp://www.lmm.jussieu.fr/~corrado/_site/2017/10/30/crack-nucleation-paper/</link>
-        <guid isPermaLink="true">http://www.lmm.jussieu.fr/corrado/_sitehttp://www.lmm.jussieu.fr/~corrado/_site/2017/10/30/crack-nucleation-paper/</guid>
+        <link>http://localhost:4000/2017/10/30/crack-nucleation-paper/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/10/30/crack-nucleation-paper/</guid>
         
         
       </item>
@@ -152,7 +207,7 @@ Several validation and verification numerical experiments are provided.&lt;/p&gt
   &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://www.lmm.jussieu.fr/~corrado/_site/images/image.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/image.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;table&gt;
     &lt;thead&gt;
@@ -188,8 +243,8 @@ Several validation and verification numerical experiments are provided.&lt;/p&gt
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Mon, 16 Nov 2015 01:00:00 +0100</pubDate>
-        <link>http://www.lmm.jussieu.fr/corrado/_sitehttp://www.lmm.jussieu.fr/~corrado/_site/2015/11/16/styles-for-slim/</link>
-        <guid isPermaLink="true">http://www.lmm.jussieu.fr/corrado/_sitehttp://www.lmm.jussieu.fr/~corrado/_site/2015/11/16/styles-for-slim/</guid>
+        <link>http://localhost:4000/2015/11/16/styles-for-slim/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/11/16/styles-for-slim/</guid>
         
         
       </item>
@@ -212,8 +267,8 @@ Several validation and verification numerical experiments are provided.&lt;/p&gt
 
 </description>
         <pubDate>Sun, 15 Nov 2015 12:02:34 +0100</pubDate>
-        <link>http://www.lmm.jussieu.fr/corrado/_sitehttp://www.lmm.jussieu.fr/~corrado/_site/2015/11/15/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://www.lmm.jussieu.fr/corrado/_sitehttp://www.lmm.jussieu.fr/~corrado/_site/2015/11/15/welcome-to-jekyll/</guid>
+        <link>http://localhost:4000/2015/11/15/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/11/15/welcome-to-jekyll/</guid>
         
         
       </item>
