@@ -7,6 +7,6 @@ In our paper {%cite cm-a21-jmps --file cm-articles.bib%} we discuss the numerica
 
 
 <img style="float: center; margin: 0px 0px 0px 0px;"
-src="{{site.baseurl}}/images/stabdiag.png width="300" />
+src="{{site.baseurl}}/images/stabdiag.png" width="300" />
 
 {%bibliography --file cm-articles.bib --cited%}
