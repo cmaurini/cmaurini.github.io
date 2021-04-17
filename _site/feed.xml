@@ -5,8 +5,8 @@
     <description></description>
     <link>http://www.lmm.jussieu.fr/corrado/_sitehttp://www.lmm.jussieu.fr/~corrado/_site/</link>
     <atom:link href="http://www.lmm.jussieu.fr/corrado/_sitehttp://www.lmm.jussieu.fr/~corrado/_site/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 17 Apr 2021 11:16:42 +0200</pubDate>
-    <lastBuildDate>Sat, 17 Apr 2021 11:16:42 +0200</lastBuildDate>
+    <pubDate>Sat, 17 Apr 2021 11:19:51 +0200</pubDate>
+    <lastBuildDate>Sat, 17 Apr 2021 11:19:51 +0200</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
@@ -55,21 +55,6 @@
         <pubDate>Fri, 03 Aug 2018 02:00:00 +0200</pubDate>
         <link>http://www.lmm.jussieu.fr/corrado/_sitehttp://www.lmm.jussieu.fr/~corrado/_site/2018/08/03/fenics-shells-paper/</link>
         <guid isPermaLink="true">http://www.lmm.jussieu.fr/corrado/_sitehttp://www.lmm.jussieu.fr/~corrado/_site/2018/08/03/fenics-shells-paper/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Notebook on variational fracture</title>
-        <description>&lt;p&gt;You can find here an interactive notebook with a tutorial on the implementation of gradient damage models and their use to simulate brittle fracture:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://notebooks.azure.com/cmaurini/libraries/varfrac&quot;&gt;&lt;img src=&quot;https://notebooks.azure.com/launch.png&quot; alt=&quot;Azure Notebooks&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;You can play with it interactively (the basic account on azure is free).&lt;/p&gt;
-</description>
-        <pubDate>Mon, 13 Nov 2017 01:00:00 +0100</pubDate>
-        <link>http://www.lmm.jussieu.fr/corrado/_sitehttp://www.lmm.jussieu.fr/~corrado/_site/2017/11/13/varfrac-notebook/</link>
-        <guid isPermaLink="true">http://www.lmm.jussieu.fr/corrado/_sitehttp://www.lmm.jussieu.fr/~corrado/_site/2017/11/13/varfrac-notebook/</guid>
         
         
       </item>
