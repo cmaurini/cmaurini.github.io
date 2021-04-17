@@ -1,3 +1,4 @@
-/usr/local/bin/bundle exec jekyll build
-/usr/local/bin/bundle exec jekyll serve --baseurl "" --open-url
+bundle update
+bundle exec jekyll build
+bundle exec jekyll serve --baseurl "" --open-url
 

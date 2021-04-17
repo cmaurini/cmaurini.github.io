@@ -11,6 +11,6 @@ Université Pierre et Marie Curie <br />
 4 Place Jussieu, case 162, Tour 55-65, 75252 Paris Cedex 05 <br />
 4th floor, Office 424,
 Phone: +33 (0)1 44 27 87 19, Fax: +33 (0) 1 44 27 52 59 <br />
-E-mail: corrado - dot - maurini - at - upmc.fr <br />
+E-mail: corrado `dot`  maurini  `at` sorbonne-universite.fr <br />
 
 

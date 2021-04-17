@@ -6,16 +6,11 @@ date: 2017-08-26 19:02:34 +0800
 My current research interests include stability of structures,
 fracture and damage mechanics, computational mechanics,
 plates and shells, large deformations and instabilities in soft solids.
-
-The [H.D.R report](http://www.lmm.jussieu.fr/~corrado/articles/hdr-small.pdf) gives more details on my works in the period 2006-2014. You find below a short overview.
-
-If you are further interested in my work please <a href="{{site.baseurl}}/contact">Contacts</a>  me by mail.
-
 ## Fracture and damage mechanics
 I study fracture and damage mechanics in the framework of the variational approach
  to fracture. My interest focus on the links between gradient damage models and brittle fracture, and the use of damage models as phase-field models of fracture.
-In a series of works, we have shown how crack nucleation can be studied  as a problem of structural instability and how the morphogenisis of complex crack patterns can be predicted by a bifurcation analysis.
-I work also on numerical developments to improve the efficiency of the available HPC tecniques for phase-field models of fracture. I distribute several open-source codes to reproduce the results of my papers and, hopefully, serve as examples for others.
+In a series of works, we have shown how crack nucleation can be studied  as a problem of structural instability and how the morphogenesis of complex crack patterns can be predicted by a bifurcation analysis.
+I work also on numerical developments to improve the efficiency of the available HPC techniques for phase-field models of fracture. I distribute several open-source codes to reproduce the results of my papers and, hopefully, serve as examples for others.
 
 <img style="float: center; margin: 0px 0px 0px 0px;" src="{{site.baseurl}}/images/Wafer-init-0_28Mnd-tridelaunay-0144.png" width="200" />
 <img style="float: center; margin: 0px 0px 0px 0px;" src="{{site.baseurl}}/images/tshock.png" width="200" />

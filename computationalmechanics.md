@@ -6,4 +6,4 @@ date:   2017-08-26 19:02:34 +0800
 
 The official website is here:
 
-[http://www.master.spi.upmc.fr/fr/computational-mechanics.html](http://www.master.spi.upmc.fr/fr/computational-mechanics.html)
+[http://sciences.sorbonne-universite.fr/formation-sciences/masters/master-de-mecanique/parcours-computational-mechanics](http://sciences.sorbonne-universite.fr/formation-sciences/masters/master-de-mecanique/parcours-computational-mechanics)
