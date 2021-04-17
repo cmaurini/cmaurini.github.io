@@ -3,16 +3,16 @@
   <channel>
     <title>Corrado Maurini</title>
     <description></description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 04 Nov 2019 12:02:39 +0100</pubDate>
-    <lastBuildDate>Mon, 04 Nov 2019 12:02:39 +0100</lastBuildDate>
-    <generator>Jekyll v3.8.5</generator>
+    <link>http://www.lmm.jussieu.fr/corrado/_sitehttp://www.lmm.jussieu.fr/~corrado/_site/</link>
+    <atom:link href="http://www.lmm.jussieu.fr/corrado/_sitehttp://www.lmm.jussieu.fr/~corrado/_site/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 17 Apr 2021 09:40:21 +0200</pubDate>
+    <lastBuildDate>Sat, 17 Apr 2021 09:40:21 +0200</lastBuildDate>
+    <generator>Jekyll v3.9.0</generator>
     
       <item>
         <title>Fenics-shells paper</title>
         <description>&lt;p&gt;Our work on simple and extensible finite element implementations of linear and nonlinear plate and shells model in FEniCS is available
-&lt;a class=&quot;citation&quot; href=&quot;#cm-a19-cs&quot;&gt;(Hale, Brunetti, Bordas, &amp;amp; Maurini, 2018)&lt;/a&gt;.&lt;/p&gt;
+&lt;a class=&quot;citation&quot; href=&quot;#cm-a19-cs&quot;&gt;(Hale et al., 2018)&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;You can find the codes and further details here:
 &lt;a href=&quot;https://bitbucket.org/unilucompmech/fenics-shells&quot;&gt;https://bitbucket.org/unilucompmech/fenics-shells&lt;/a&gt;&lt;/p&gt;
@@ -53,8 +53,8 @@
 &lt;/li&gt;&lt;/ol&gt;
 </description>
         <pubDate>Fri, 03 Aug 2018 02:00:00 +0200</pubDate>
-        <link>http://localhost:4000/2018/08/03/fenics-shells-paper/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/08/03/fenics-shells-paper/</guid>
+        <link>http://www.lmm.jussieu.fr/corrado/_sitehttp://www.lmm.jussieu.fr/~corrado/_site/2018/08/03/fenics-shells-paper/</link>
+        <guid isPermaLink="true">http://www.lmm.jussieu.fr/corrado/_sitehttp://www.lmm.jussieu.fr/~corrado/_site/2018/08/03/fenics-shells-paper/</guid>
         
         
       </item>
@@ -68,8 +68,8 @@
 &lt;p&gt;You can play with it interactively (the basic account on azure is free).&lt;/p&gt;
 </description>
         <pubDate>Mon, 13 Nov 2017 01:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2017/11/13/varfrac-notebook/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/11/13/varfrac-notebook/</guid>
+        <link>http://www.lmm.jussieu.fr/corrado/_sitehttp://www.lmm.jussieu.fr/~corrado/_site/2017/11/13/varfrac-notebook/</link>
+        <guid isPermaLink="true">http://www.lmm.jussieu.fr/corrado/_sitehttp://www.lmm.jussieu.fr/~corrado/_site/2017/11/13/varfrac-notebook/</guid>
         
         
       </item>
@@ -77,14 +77,14 @@
       <item>
         <title>Crack nucleation paper</title>
         <description>&lt;p&gt;Our work on crack nucleation in variational phase-field models is available
-&lt;a class=&quot;citation&quot; href=&quot;#cm-a-2017-jmps&quot;&gt;(Tanné, Li, Bourdin, Marigo, &amp;amp; Maurini, 2018)&lt;/a&gt;.
+&lt;a class=&quot;citation&quot; href=&quot;#cm-a-2017-jmps&quot;&gt;(Tanné et al., 2018)&lt;/a&gt;.
 We study gradient-damage models can be used as phase-field model of brittle fracture.
 We show that they correctely account for crack nucleation when appropiately setting the internal length.
 Several validation and verification numerical experiments are provided.&lt;/p&gt;
 
 &lt;p&gt;Codes used in this paper can be found here: &lt;a href=&quot;https://bitbucket.org/cmaurini/gradient-damage&quot;&gt;https://bitbucket.org/cmaurini/gradient-damage&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img style=&quot;float: center; margin: 0px 0px 0px 0px;&quot; src=&quot;/images/InitiationIllustration.png&quot; width=&quot;300&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img style=&quot;float: center; margin: 0px 0px 0px 0px;&quot; src=&quot;http://www.lmm.jussieu.fr/~corrado/_site/images/InitiationIllustration.png&quot; width=&quot;300&quot; /&gt;&lt;/p&gt;
 
 &lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;cm-a-2017-jmps&quot;&gt;Tanné, E., Li, T., Bourdin, B., Marigo, J.-J., &amp;amp; Maurini, C. (2018). Crack nucleation in variational phase-field models of brittle fracture. &lt;i&gt;Journal of the Mechanics and Physics of Solids&lt;/i&gt;, &lt;i&gt;110&lt;/i&gt;(Supplement C), 80–99. https://doi.org/10.1016/j.jmps.2017.09.006&lt;/span&gt;
 
@@ -124,8 +124,8 @@ Several validation and verification numerical experiments are provided.&lt;/p&gt
 &lt;/li&gt;&lt;/ol&gt;
 </description>
         <pubDate>Mon, 30 Oct 2017 01:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2017/10/30/crack-nucleation-paper/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/10/30/crack-nucleation-paper/</guid>
+        <link>http://www.lmm.jussieu.fr/corrado/_sitehttp://www.lmm.jussieu.fr/~corrado/_site/2017/10/30/crack-nucleation-paper/</link>
+        <guid isPermaLink="true">http://www.lmm.jussieu.fr/corrado/_sitehttp://www.lmm.jussieu.fr/~corrado/_site/2017/10/30/crack-nucleation-paper/</guid>
         
         
       </item>
@@ -167,7 +167,7 @@ Several validation and verification numerical experiments are provided.&lt;/p&gt
   &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/image.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.lmm.jussieu.fr/~corrado/_site/images/image.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;table&gt;
     &lt;thead&gt;
@@ -203,17 +203,17 @@ Several validation and verification numerical experiments are provided.&lt;/p&gt
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Mon, 16 Nov 2015 01:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2015/11/16/styles-for-slim/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/11/16/styles-for-slim/</guid>
+        <link>http://www.lmm.jussieu.fr/corrado/_sitehttp://www.lmm.jussieu.fr/~corrado/_site/2015/11/16/styles-for-slim/</link>
+        <guid isPermaLink="true">http://www.lmm.jussieu.fr/corrado/_sitehttp://www.lmm.jussieu.fr/~corrado/_site/2015/11/16/styles-for-slim/</guid>
         
         
       </item>
     
       <item>
         <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 
 &lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
 
@@ -227,8 +227,8 @@ Several validation and verification numerical experiments are provided.&lt;/p&gt
 
 </description>
         <pubDate>Sun, 15 Nov 2015 12:02:34 +0100</pubDate>
-        <link>http://localhost:4000/2015/11/15/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/11/15/welcome-to-jekyll/</guid>
+        <link>http://www.lmm.jussieu.fr/corrado/_sitehttp://www.lmm.jussieu.fr/~corrado/_site/2015/11/15/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://www.lmm.jussieu.fr/corrado/_sitehttp://www.lmm.jussieu.fr/~corrado/_site/2015/11/15/welcome-to-jekyll/</guid>
         
         
       </item>
