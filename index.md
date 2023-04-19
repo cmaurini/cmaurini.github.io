@@ -17,7 +17,7 @@ of the [d'Alembert Institute](http://www.dalembert.upmc.fr/ijlrda/).
 - [Researchgate](https://www.researchgate.net/profile/Corrado_Maurini)
 - <a href="https://orcid.org/0000-0003-1092-4461" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0003-1092-4461</a>
 
-I am responsible for the following two master programs at Sorbonne University. Their are open to international students.
+I am responsible for the following two master programs at Sorbonne University. They are open to international students.
 - [Mécanique des Solides (Solid Mechanics)](https://sciences.sorbonne-universite.fr/formation-sciences/masters/master-de-mecanique/parcours-mecanique-des-solides-et-des-structures)
 - [Computational Mechanics](http://sciences.sorbonne-universite.fr/formation-sciences/masters/master-de-mecanique/parcours-computational-mechanics)
 # Research
@@ -36,11 +36,9 @@ You can find further details in
 # Teaching
 
 I teach several classes at Sorbonne including
-- *Equilibre stabilité et vibrations, L3* 
+- *Mécanique des Milieux Continus, M1* 
 - *Structures élancées, M1* 
-- *Scientific computing, M1*
-- *Nonlinear finite element analysis, M2* 
-- *Projects in structural mechanics, M2*
+- *Fracture Mechanics, M2* 
 
 You find here two recent computationally oriented courses I delivered in the framework of the the [Newfrac ITN network](https://www.newfrac.eu):
 

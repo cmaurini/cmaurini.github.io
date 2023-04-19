@@ -1,0 +1,19 @@
+current directory: /Users/maurini/Documents/website/cmaurini.github.io/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+/opt/homebrew/opt/ruby@2.7/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/maurini/Documents/website/cmaurini.github.io/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20230419-42772-cjc6sf sitelibdir\=./.gem.20230419-42772-cjc6sf clean
+
+current directory: /Users/maurini/Documents/website/cmaurini.github.io/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20230419-42772-cjc6sf sitelibdir\=./.gem.20230419-42772-cjc6sf
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.bundle
+
+current directory: /Users/maurini/Documents/website/cmaurini.github.io/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20230419-42772-cjc6sf sitelibdir\=./.gem.20230419-42772-cjc6sf install
+/usr/bin/install -c -m 0755 ruby_http_parser.bundle ./.gem.20230419-42772-cjc6sf
+
+current directory: /Users/maurini/Documents/website/cmaurini.github.io/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20230419-42772-cjc6sf sitelibdir\=./.gem.20230419-42772-cjc6sf clean

@@ -1,0 +1,19 @@
+current directory: /Users/maurini/Documents/website/cmaurini.github.io/vendor/bundle/ruby/3.2.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: /Users/maurini/Documents/website/cmaurini.github.io/vendor/bundle/ruby/3.2.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20230419-34354-7lnf11 sitelibdir\=./.gem.20230419-34354-7lnf11 clean
+
+current directory: /Users/maurini/Documents/website/cmaurini.github.io/vendor/bundle/ruby/3.2.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20230419-34354-7lnf11 sitelibdir\=./.gem.20230419-34354-7lnf11
+compiling unf.cc
+linking shared-object unf_ext.bundle
+
+current directory: /Users/maurini/Documents/website/cmaurini.github.io/vendor/bundle/ruby/3.2.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20230419-34354-7lnf11 sitelibdir\=./.gem.20230419-34354-7lnf11 install
+/usr/bin/install -c -m 0755 unf_ext.bundle ./.gem.20230419-34354-7lnf11
+
+current directory: /Users/maurini/Documents/website/cmaurini.github.io/vendor/bundle/ruby/3.2.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20230419-34354-7lnf11 sitelibdir\=./.gem.20230419-34354-7lnf11 clean

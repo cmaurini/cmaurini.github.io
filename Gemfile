@@ -9,5 +9,5 @@ gem "jekyll"
 gem 'jekyll-scholar'
 gem 'bootstrap'
 gem 'activesupport'
-gem "bibtex-ruby", ">= 5.1.0"
+gem "bibtex-ruby"
 gem "jekyll-mentions"

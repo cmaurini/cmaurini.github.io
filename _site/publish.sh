@@ -1,4 +1,4 @@
-/usr/local/bin/bundle exec jekyll build
+bundle exec jekyll build
 # set up a ssh tunnel through chagall and rsync with bipbip
 #ssh -fN -l corrado -L 2222:bipbip.lmm.jussieu.fr:22 chagall.dalembert.upmc.fr
 rsync -avzr ../articles/ bipbip:~/public_html/articles

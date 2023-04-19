@@ -1,0 +1,103 @@
+current directory: /Users/maurini/Documents/website/cmaurini.github.io/vendor/bundle/ruby/3.2.0/gems/yajl-ruby-1.2.3/ext/yajl
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/maurini/Documents/website/cmaurini.github.io/vendor/bundle/ruby/3.2.0/gems/yajl-ruby-1.2.3/ext/yajl
+make DESTDIR\= sitearchdir\=./.gem.20230419-30750-bt9d4j sitelibdir\=./.gem.20230419-30750-bt9d4j clean
+
+current directory: /Users/maurini/Documents/website/cmaurini.github.io/vendor/bundle/ruby/3.2.0/gems/yajl-ruby-1.2.3/ext/yajl
+make DESTDIR\= sitearchdir\=./.gem.20230419-30750-bt9d4j sitelibdir\=./.gem.20230419-30750-bt9d4j
+compiling yajl.c
+compiling yajl_alloc.c
+compiling yajl_buf.c
+compiling yajl_encode.c
+compiling yajl_ext.c
+yajl_ext.c:42:19: warning: implicit conversion loses integer precision: 'long' to 'int' [-Wshorten-64-to-32]
+        int len = RARRAY_LEN(wrapper->builderStack);
+            ~~~   ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/opt/homebrew/Cellar/ruby/3.2.2/include/ruby-3.2.0/ruby/internal/core/rarray.h:68:36: note: expanded from macro 'RARRAY_LEN'
+#define RARRAY_LEN                 rb_array_len                 /**< @alias{rb_array_len} */
+                                   ^
+yajl_ext.c:47:19: warning: implicit conversion loses integer precision: 'long' to 'int' [-Wshorten-64-to-32]
+        int len = RARRAY_LEN(wrapper->builderStack);
+            ~~~   ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/opt/homebrew/Cellar/ruby/3.2.2/include/ruby-3.2.0/ruby/internal/core/rarray.h:68:36: note: expanded from macro 'RARRAY_LEN'
+#define RARRAY_LEN                 rb_array_len                 /**< @alias{rb_array_len} */
+                                   ^
+yajl_ext.c:83:11: warning: implicit conversion loses integer precision: 'long' to 'int' [-Wshorten-64-to-32]
+    len = RARRAY_LEN(wrapper->builderStack);
+        ~ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/opt/homebrew/Cellar/ruby/3.2.2/include/ruby-3.2.0/ruby/internal/core/rarray.h:68:36: note: expanded from macro 'RARRAY_LEN'
+#define RARRAY_LEN                 rb_array_len                 /**< @alias{rb_array_len} */
+                                   ^
+yajl_ext.c:201:19: warning: implicit conversion loses integer precision: 'long' to 'unsigned int' [-Wshorten-64-to-32]
+            len = RSTRING_LEN(str);
+                ~ ^~~~~~~~~~~~~~~~
+/opt/homebrew/Cellar/ruby/3.2.2/include/ruby-3.2.0/ruby/internal/core/rstring.h:52:27: note: expanded from macro 'RSTRING_LEN'
+#define RSTRING_LEN       RSTRING_LEN
+                          ^
+yajl_ext.c:209:19: warning: implicit conversion loses integer precision: 'long' to 'unsigned int' [-Wshorten-64-to-32]
+            len = RSTRING_LEN(obj);
+                ~ ^~~~~~~~~~~~~~~~
+/opt/homebrew/Cellar/ruby/3.2.2/include/ruby-3.2.0/ruby/internal/core/rstring.h:52:27: note: expanded from macro 'RSTRING_LEN'
+#define RSTRING_LEN       RSTRING_LEN
+                          ^
+yajl_ext.c:217:23: warning: implicit conversion loses integer precision: 'long' to 'unsigned int' [-Wshorten-64-to-32]
+                len = RSTRING_LEN(str);
+                    ~ ^~~~~~~~~~~~~~~~
+/opt/homebrew/Cellar/ruby/3.2.2/include/ruby-3.2.0/ruby/internal/core/rstring.h:52:27: note: expanded from macro 'RSTRING_LEN'
+#define RSTRING_LEN       RSTRING_LEN
+                          ^
+yajl_ext.c:223:23: warning: implicit conversion loses integer precision: 'long' to 'unsigned int' [-Wshorten-64-to-32]
+                len = RSTRING_LEN(str);
+                    ~ ^~~~~~~~~~~~~~~~
+/opt/homebrew/Cellar/ruby/3.2.2/include/ruby-3.2.0/ruby/internal/core/rstring.h:52:27: note: expanded from macro 'RSTRING_LEN'
+#define RSTRING_LEN       RSTRING_LEN
+                          ^
+yajl_ext.c:471:17: warning: variable 'stat' set but not used [-Wunused-but-set-variable]
+    yajl_status stat;
+                ^
+yajl_ext.c:492:15: warning: implicit conversion loses integer precision: 'long' to 'unsigned int' [-Wshorten-64-to-32]
+        len = RSTRING_LEN(input);
+            ~ ^~~~~~~~~~~~~~~~~~
+/opt/homebrew/Cellar/ruby/3.2.2/include/ruby-3.2.0/ruby/internal/core/rstring.h:52:27: note: expanded from macro 'RSTRING_LEN'
+#define RSTRING_LEN       RSTRING_LEN
+                          ^
+yajl_ext.c:498:19: warning: implicit conversion loses integer precision: 'long' to 'unsigned int' [-Wshorten-64-to-32]
+            len = RSTRING_LEN(parsed);
+                ~ ^~~~~~~~~~~~~~~~~~~
+/opt/homebrew/Cellar/ruby/3.2.2/include/ruby-3.2.0/ruby/internal/core/rstring.h:52:27: note: expanded from macro 'RSTRING_LEN'
+#define RSTRING_LEN       RSTRING_LEN
+                          ^
+yajl_ext.c:538:15: warning: implicit conversion loses integer precision: 'long' to 'unsigned int' [-Wshorten-64-to-32]
+        len = RSTRING_LEN(chunk);
+            ~ ^~~~~~~~~~~~~~~~~~
+/opt/homebrew/Cellar/ruby/3.2.2/include/ruby-3.2.0/ruby/internal/core/rstring.h:52:27: note: expanded from macro 'RSTRING_LEN'
+#define RSTRING_LEN       RSTRING_LEN
+                          ^
+11 warnings generated.
+compiling yajl_gen.c
+yajl_gen.c:295:5: warning: implicit conversion from enumeration type 'yajl_gen_state' to different enumeration type 'yajl_gen_status' [-Wenum-conversion]
+    DECREMENT_DEPTH;
+    ^~~~~~~~~~~~~~~
+yajl_gen.c:181:48: note: expanded from macro 'DECREMENT_DEPTH'
+    if (--(g->depth) >= YAJL_MAX_DEPTH) return yajl_gen_error;
+                                        ~~~~~~ ^~~~~~~~~~~~~~
+yajl_gen.c:321:5: warning: implicit conversion from enumeration type 'yajl_gen_state' to different enumeration type 'yajl_gen_status' [-Wenum-conversion]
+    DECREMENT_DEPTH;
+    ^~~~~~~~~~~~~~~
+yajl_gen.c:181:48: note: expanded from macro 'DECREMENT_DEPTH'
+    if (--(g->depth) >= YAJL_MAX_DEPTH) return yajl_gen_error;
+                                        ~~~~~~ ^~~~~~~~~~~~~~
+2 warnings generated.
+compiling yajl_lex.c
+compiling yajl_parser.c
+compiling yajl_version.c
+linking shared-object yajl/yajl.bundle
+
+current directory: /Users/maurini/Documents/website/cmaurini.github.io/vendor/bundle/ruby/3.2.0/gems/yajl-ruby-1.2.3/ext/yajl
+make DESTDIR\= sitearchdir\=./.gem.20230419-30750-bt9d4j sitelibdir\=./.gem.20230419-30750-bt9d4j install
+/usr/bin/install -c -m 0755 yajl.bundle ./.gem.20230419-30750-bt9d4j/yajl
+
+current directory: /Users/maurini/Documents/website/cmaurini.github.io/vendor/bundle/ruby/3.2.0/gems/yajl-ruby-1.2.3/ext/yajl
+make DESTDIR\= sitearchdir\=./.gem.20230419-30750-bt9d4j sitelibdir\=./.gem.20230419-30750-bt9d4j clean
