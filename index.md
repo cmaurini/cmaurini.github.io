@@ -20,6 +20,8 @@ of the [d'Alembert Institute](http://www.dalembert.upmc.fr/ijlrda/).
 I am responsible for the following two master programs at Sorbonne University. They are open to international students.
 - [Mécanique des Solides (Solid Mechanics)](https://sciences.sorbonne-universite.fr/formation-sciences/masters/master-de-mecanique/parcours-mecanique-des-solides-et-des-structures)
 - [Computational Mechanics](http://sciences.sorbonne-universite.fr/formation-sciences/masters/master-de-mecanique/parcours-computational-mechanics)
+
+
 # Research
 My current research interests include stability of structures,
 fracture and damage mechanics, computational mechanics,
