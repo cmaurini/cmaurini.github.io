@@ -5,8 +5,8 @@
     <description></description>
     <link>http://www.lmm.jussieu.fr/corrado/_sitehttp://www.lmm.jussieu.fr/~corrado/_site/</link>
     <atom:link href="http://www.lmm.jussieu.fr/corrado/_sitehttp://www.lmm.jussieu.fr/~corrado/_site/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 19 Apr 2023 16:27:13 +0200</pubDate>
-    <lastBuildDate>Wed, 19 Apr 2023 16:27:13 +0200</lastBuildDate>
+    <pubDate>Mon, 04 Dec 2023 16:47:38 +0100</pubDate>
+    <lastBuildDate>Mon, 04 Dec 2023 16:47:38 +0100</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
     
       <item>
@@ -20,7 +20,7 @@
 [&lt;a href=&quot;http://dx.doi.org/https://doi.org/10.1016/j.jmps.2021.104424&quot;&gt;Publisher&lt;/a&gt;]
 
 
-[&lt;a href=&quot;https://authors.elsevier.com/a/1cw3157Zjzhio&quot;&gt;Pdf&lt;/a&gt;]
+[&lt;a href=&quot;https://hal.science/hal-03106368v2/file/stability_bifurcation.pdf&quot;&gt;Pdf&lt;/a&gt;]
 
 
 &lt;!--
@@ -35,7 +35,7 @@
   year = {2021},
   subject = {fracture},
   issn = {0022-5096},
-  pdf = {https://authors.elsevier.com/a/1cw3157Zjzhio},
+  pdf = {https://hal.science/hal-03106368v2/file/stability_bifurcation.pdf},
   doi = {https://doi.org/10.1016/j.jmps.2021.104424},
   url = {https://www.sciencedirect.com/science/article/pii/S0022509621001010},
   author = {{León Baldelli}, Andrés A. and Maurini, Corrado},
