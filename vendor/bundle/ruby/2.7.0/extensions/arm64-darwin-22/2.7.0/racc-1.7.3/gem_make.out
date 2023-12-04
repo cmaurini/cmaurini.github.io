@@ -1,0 +1,20 @@
+current directory: /Users/maurini/Documents/website/cmaurini.github.io/vendor/bundle/ruby/2.7.0/gems/racc-1.7.3/ext/racc/cparse
+/opt/homebrew/opt/ruby@2.7/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/maurini/Documents/website/cmaurini.github.io/vendor/bundle/ruby/2.7.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20231204-75131-o78qo1 sitelibdir\=./.gem.20231204-75131-o78qo1 clean
+
+current directory: /Users/maurini/Documents/website/cmaurini.github.io/vendor/bundle/ruby/2.7.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20231204-75131-o78qo1 sitelibdir\=./.gem.20231204-75131-o78qo1
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: -multiply_defined is obsolete
+ld: warning: ignoring duplicate libraries: '-lruby.2.7'
+
+current directory: /Users/maurini/Documents/website/cmaurini.github.io/vendor/bundle/ruby/2.7.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20231204-75131-o78qo1 sitelibdir\=./.gem.20231204-75131-o78qo1 install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20231204-75131-o78qo1/racc
+
+current directory: /Users/maurini/Documents/website/cmaurini.github.io/vendor/bundle/ruby/2.7.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20231204-75131-o78qo1 sitelibdir\=./.gem.20231204-75131-o78qo1 clean
