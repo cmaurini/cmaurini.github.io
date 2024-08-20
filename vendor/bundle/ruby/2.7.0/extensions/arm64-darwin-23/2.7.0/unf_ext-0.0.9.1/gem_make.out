@@ -1,0 +1,24 @@
+current directory: /Users/maurini/Documents/website/cmaurini.github.io/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.9.1/ext/unf_ext
+/opt/homebrew/opt/ruby@2.7/bin/ruby extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: /Users/maurini/Documents/website/cmaurini.github.io/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.9.1/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20240820-52117-d28zp sitelibdir\=./.gem.20240820-52117-d28zp clean
+
+current directory: /Users/maurini/Documents/website/cmaurini.github.io/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.9.1/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20240820-52117-d28zp sitelibdir\=./.gem.20240820-52117-d28zp
+compiling unf.cc
+linking shared-object unf_ext.bundle
+ld: warning: -multiply_defined is obsolete
+ld: warning: ignoring duplicate libraries: '-lc++', '-lruby.2.7'
+ld: warning: search path '/opt/homebrew/opt/readline/lib' not found
+ld: warning: search path '/opt/homebrew/opt/readline/lib' not found
+ld: warning: search path '/opt/homebrew/opt/readline/lib' not found
+
+current directory: /Users/maurini/Documents/website/cmaurini.github.io/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.9.1/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20240820-52117-d28zp sitelibdir\=./.gem.20240820-52117-d28zp install
+/usr/bin/install -c -m 0755 unf_ext.bundle ./.gem.20240820-52117-d28zp
+
+current directory: /Users/maurini/Documents/website/cmaurini.github.io/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.9.1/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20240820-52117-d28zp sitelibdir\=./.gem.20240820-52117-d28zp clean

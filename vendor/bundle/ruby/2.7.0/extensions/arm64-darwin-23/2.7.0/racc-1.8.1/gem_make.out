@@ -1,0 +1,23 @@
+current directory: /Users/maurini/Documents/website/cmaurini.github.io/vendor/bundle/ruby/2.7.0/gems/racc-1.8.1/ext/racc/cparse
+/opt/homebrew/opt/ruby@2.7/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/maurini/Documents/website/cmaurini.github.io/vendor/bundle/ruby/2.7.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240820-56183-rxu80u sitelibdir\=./.gem.20240820-56183-rxu80u clean
+
+current directory: /Users/maurini/Documents/website/cmaurini.github.io/vendor/bundle/ruby/2.7.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240820-56183-rxu80u sitelibdir\=./.gem.20240820-56183-rxu80u
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: -multiply_defined is obsolete
+ld: warning: ignoring duplicate libraries: '-lruby.2.7'
+ld: warning: search path '/opt/homebrew/opt/readline/lib' not found
+ld: warning: search path '/opt/homebrew/opt/readline/lib' not found
+ld: warning: search path '/opt/homebrew/opt/readline/lib' not found
+
+current directory: /Users/maurini/Documents/website/cmaurini.github.io/vendor/bundle/ruby/2.7.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240820-56183-rxu80u sitelibdir\=./.gem.20240820-56183-rxu80u install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20240820-56183-rxu80u/racc
+
+current directory: /Users/maurini/Documents/website/cmaurini.github.io/vendor/bundle/ruby/2.7.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240820-56183-rxu80u sitelibdir\=./.gem.20240820-56183-rxu80u clean

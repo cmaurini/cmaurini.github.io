@@ -1,0 +1,25 @@
+current directory: /Users/maurini/Documents/website/cmaurini.github.io/vendor/bundle/ruby/2.7.0/gems/strscan-3.1.0/ext/strscan
+/opt/homebrew/opt/ruby@2.7/bin/ruby extconf.rb
+checking for onig_region_memsize() in ruby.h... yes
+checking for rb_reg_onig_match() in ruby.h... no
+creating Makefile
+
+current directory: /Users/maurini/Documents/website/cmaurini.github.io/vendor/bundle/ruby/2.7.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240820-56183-uit6l4 sitelibdir\=./.gem.20240820-56183-uit6l4 clean
+
+current directory: /Users/maurini/Documents/website/cmaurini.github.io/vendor/bundle/ruby/2.7.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240820-56183-uit6l4 sitelibdir\=./.gem.20240820-56183-uit6l4
+compiling strscan.c
+linking shared-object strscan.bundle
+ld: warning: -multiply_defined is obsolete
+ld: warning: ignoring duplicate libraries: '-lruby.2.7'
+ld: warning: search path '/opt/homebrew/opt/readline/lib' not found
+ld: warning: search path '/opt/homebrew/opt/readline/lib' not found
+ld: warning: search path '/opt/homebrew/opt/readline/lib' not found
+
+current directory: /Users/maurini/Documents/website/cmaurini.github.io/vendor/bundle/ruby/2.7.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240820-56183-uit6l4 sitelibdir\=./.gem.20240820-56183-uit6l4 install
+/usr/bin/install -c -m 0755 strscan.bundle ./.gem.20240820-56183-uit6l4
+
+current directory: /Users/maurini/Documents/website/cmaurini.github.io/vendor/bundle/ruby/2.7.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240820-56183-uit6l4 sitelibdir\=./.gem.20240820-56183-uit6l4 clean

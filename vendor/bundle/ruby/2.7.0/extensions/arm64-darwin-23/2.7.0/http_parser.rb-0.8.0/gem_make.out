@@ -1,0 +1,24 @@
+current directory: /Users/maurini/Documents/website/cmaurini.github.io/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+/opt/homebrew/opt/ruby@2.7/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/maurini/Documents/website/cmaurini.github.io/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20240820-52117-ot7ezj sitelibdir\=./.gem.20240820-52117-ot7ezj clean
+
+current directory: /Users/maurini/Documents/website/cmaurini.github.io/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20240820-52117-ot7ezj sitelibdir\=./.gem.20240820-52117-ot7ezj
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.bundle
+ld: warning: -multiply_defined is obsolete
+ld: warning: ignoring duplicate libraries: '-lruby.2.7'
+ld: warning: search path '/opt/homebrew/opt/readline/lib' not found
+ld: warning: search path '/opt/homebrew/opt/readline/lib' not found
+ld: warning: search path '/opt/homebrew/opt/readline/lib' not found
+
+current directory: /Users/maurini/Documents/website/cmaurini.github.io/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20240820-52117-ot7ezj sitelibdir\=./.gem.20240820-52117-ot7ezj install
+/usr/bin/install -c -m 0755 ruby_http_parser.bundle ./.gem.20240820-52117-ot7ezj
+
+current directory: /Users/maurini/Documents/website/cmaurini.github.io/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20240820-52117-ot7ezj sitelibdir\=./.gem.20240820-52117-ot7ezj clean
