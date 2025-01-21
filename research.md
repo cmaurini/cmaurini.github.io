@@ -6,7 +6,9 @@ date: 2017-08-26 19:02:34 +0800
 My current research interests include stability of structures,
 fracture and damage mechanics, computational mechanics,
 plates and shells, large deformations and instabilities in soft solids.
+
 ## Fracture and damage mechanics
+
 I study fracture and damage mechanics in the framework of the variational approach
  to fracture. My interest focus on the links between gradient damage models and brittle fracture, and the use of damage models as phase-field models of fracture.
 In a series of works, we have shown how crack nucleation can be studied  as a problem of structural instability and how the morphogenesis of complex crack patterns can be predicted by a bifurcation analysis.
