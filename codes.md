@@ -4,7 +4,7 @@ title: codes
 date:   2017-08-26 19:02:34 +0800
 ---
 
-- ’*Computational fracture mechanics examples with FEniCSx*–(https://newfrac.github.io/fenicsx-fracture/Index.html)
+- [*Computational fracture mechanics examples with FEniCSx*](https://newfrac.github.io/fenicsx-fracture/Index.html)
 
 - [*Basic computational methods for fracture mechanics using `dolfinx`*](https://gitlab.com/newfrac/CORE-school/newfrac-core-numerics#basic-computational-methods-for-fracture-mechanics) with Laura De Laurenzis, ETH Zurich, in the framework of the [Newfrac project](https://www.newfrac.eu)
   
