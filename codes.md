@@ -4,9 +4,11 @@ title: codes
 date:   2017-08-26 19:02:34 +0800
 ---
 
+- ’*Computational fracture mechanics examples with FEniCSx*–(https://newfrac.github.io/fenicsx-fracture/Index.html)
+
 - [*Basic computational methods for fracture mechanics using `dolfinx`*](https://gitlab.com/newfrac/CORE-school/newfrac-core-numerics#basic-computational-methods-for-fracture-mechanics) with Laura De Laurenzis, ETH Zurich, in the framework of the [Newfrac project](https://www.newfrac.eu)
   
-- [*Training on dolfinx including nonlienear elasticity and phase-field fracture*](https://newfrac.gitlab.io/newfrac-fenicsx-training/), in collaboration with Jack Hale, University of Luxembourg, in the framework of the [Newfrac project](https://www.newfrac.eu).
+- [*Training on dolfinx including nonlinear elasticity and phase-field fracture*](https://newfrac.gitlab.io/newfrac-fenicsx-training/), in collaboration with Jack Hale, University of Luxembourg, in the framework of the [Newfrac project](https://www.newfrac.eu).
   
 - A tutorial as Jupyter notebooks that I use for short courses (with fenics-old, outdated), on [colab](https://colab.research.google.com/github/cmaurini/damage-course/blob/master/notebook/VarFrac.ipynb)
   
@@ -19,7 +21,6 @@ date:   2017-08-26 19:02:34 +0800
  - Demo codes used at the cism-iutam summer school on variational fracture [http://www.cism.it/courses/C1304/](http://www.cism.it/courses/C1304/):
         [https://bitbucket.org/cmaurini/varfrac_for_cism](https://bitbucket.org/cmaurini/varfrac_for_cism),
       where you can find elementary examples for the implementation of gradient-damage models in FEniCS (can be outdated but useful as a starting example).
-
 
 - Strain-gradient damage, supplementary material to {% cite cm-a18-cmame --file cm-articles.bib%}: [https://bitbucket.org/cmaurini/gd-vs-sd-damagemodels](https://bitbucket.org/cmaurini/gd-vs-sd-damagemodels)
 
