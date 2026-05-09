@@ -1,4 +1,5 @@
-bundle update
-bundle exec jekyll build
+#!/bin/sh
+set -eu
+
 bundle exec jekyll serve --baseurl "" --open-url
 
