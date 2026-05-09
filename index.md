@@ -5,21 +5,23 @@ date:   2017-08-26 19:02:34 +0800
 <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
 
 # About
-I am Professor in Mechanics at [Sorbonne University](https://www.sorbonne-universite.fr).
-I work in the [MISES group](http://www.dalembert.upmc.fr/mises/index.php)
-of the [d'Alembert Institute](http://www.dalembert.upmc.fr/ijlrda/).
+I am {{ site.data.home.about.role }}
+I work in the [{{ site.data.home.about.group_name }}]({{ site.data.home.about.group_url }})
+of the [{{ site.data.home.about.institute_name }}]({{ site.data.home.about.institute_url }}).
 
 
-- <a href="{{site.baseurl}}/publications">List of publications</a>
-- [HAL-UPMC with pdfs of my publications](http://hal.sorbonne-universite.fr/search/index/?q=authFullName_t%3A%28Maurini+Corrado%29&submit=)
-- [Some research videos](https://www.youtube.com/user/cmaurini)
-- <a href="{{site.baseurl}}/contacts">Contacts</a>
-- [Researchgate](https://www.researchgate.net/profile/Corrado_Maurini)
-- <a href="https://orcid.org/0000-0003-1092-4461" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0003-1092-4461</a>
+{% for link in site.data.home.quick_links %}
+{% if link.path %}
+- [{{ link.title }}]({{ link.path | relative_url }})
+{% else %}
+- [{{ link.title }}]({{ link.url }})
+{% endif %}
+{% endfor %}
 
 I am responsible for the following two master programs at Sorbonne University. They are open to international students.
-- [Mécanique des Solides (Solid Mechanics)](https://sciences.sorbonne-universite.fr/formation-sciences/masters/master-de-mecanique/parcours-mecanique-des-solides-et-des-structures)
-- [Computational Mechanics](http://sciences.sorbonne-universite.fr/formation-sciences/masters/master-de-mecanique/parcours-computational-mechanics)
+{% for program in site.data.home.master_programs %}
+- [{{ program.title }}]({{ program.url }})
+{% endfor %}
 
 
 # Research
@@ -27,34 +29,34 @@ My current research interests include stability of structures,
 fracture and damage mechanics, computational mechanics,
 plates and shells, large deformations and instabilities in soft solids.
 
-- Fracture and damage mechanics, variational phase-field models
-- Multi-stable plates and shells
-- Nonlinear elasticity
+{% for item in site.data.home.research.interests %}
+- {{ item }}
+{% endfor %}
 
 You can find further details in
-<a href="{{site.baseurl}}/research">research</a>
+[research]({{ site.data.home.research.details_path | relative_url }})
 
 
 # Teaching
 
 I teach several classes at Sorbonne including
-- *Mécanique des Milieux Continus, M1* 
-- *Structures élancées, M1* 
-- *Fracture Mechanics, M2* 
+{% for class in site.data.home.teaching.classes %}
+- {{ class }}
+{% endfor %}
 
-You find here two recent computationally oriented courses I delivered in the framework of the the [Newfrac ITN network](https://www.newfrac.eu):
+You find here two recent computationally oriented courses I delivered in the framework of the [{{ site.data.home.teaching.network_name }}]({{ site.data.home.teaching.network_url }}):
 
-- [*Basic computational methods for fracture mechanics using dolfinx*](https://gitlab.com/newfrac/CORE-school/newfrac-core-numerics#basic-computational-methods-for-fracture-mechanics) with Laura De Laurenzis, ETH Zurich
-  
-- [*Training on dolfinx including nonlienear elasticity and phase-field fracture*](https://newfrac.gitlab.io/newfrac-fenicsx-training/), in collaboration with Jack Hale, University of Luxembourg
+{% for resource in site.data.home.teaching.resources %}
+- [{{ resource.title }}]({{ resource.url }}){% if resource.notes %}, {{ resource.notes }}{% endif %}
+{% endfor %}
 
 
 You can find further details in
-<a href="{{site.baseurl}}/teaching">teaching</a>
+[teaching]({{ site.data.home.teaching.details_path | relative_url }})
 
 
 # Open source codes
-You find [<a href="{{site.baseurl}}/codes">here</a>] few repositories with codes I develop and use for my research and teaching. Those codes are based on [FEniCS](https://fenicsproject.org) and meant mainly to serve as examples for further developments.
+You find [here]({{ site.data.home.codes.details_path | relative_url }}) few repositories with codes I develop and use for my research and teaching. Those codes are based on [{{ site.data.home.codes.framework_name }}]({{ site.data.home.codes.framework_url }}) and meant mainly to serve as examples for further developments.
 
 # Posts
 <div class="home">

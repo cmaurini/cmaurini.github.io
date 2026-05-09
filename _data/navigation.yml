@@ -1,0 +1,13 @@
+main:
+  - title: Publications
+    path: /publications/
+  - title: Research
+    path: /research/
+  - title: Teaching
+    path: /teaching/
+  - title: Codes
+    path: /codes/
+  - title: Contacts
+    path: /contacts/
+  - title: Posts
+    path: /archives/

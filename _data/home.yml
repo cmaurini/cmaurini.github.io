@@ -1,0 +1,54 @@
+about:
+  role: Professor in Mechanics at Sorbonne University.
+  group_name: MISES group
+  group_url: https://www.dalembert.upmc.fr/mises/index.php
+  institute_name: d'Alembert Institute
+  institute_url: https://www.dalembert.upmc.fr/ijlrda/
+
+quick_links:
+  - title: List of publications
+    path: /publications/
+  - title: HAL-UPMC with pdfs of my publications
+    url: https://hal.sorbonne-universite.fr/search/index/?q=authFullName_t%3A%28Maurini+Corrado%29&submit=
+  - title: Some research videos
+    url: https://www.youtube.com/user/cmaurini
+  - title: Contacts
+    path: /contacts/
+  - title: ResearchGate
+    url: https://www.researchgate.net/profile/Corrado_Maurini
+  - title: ORCID
+    url: https://orcid.org/0000-0003-1092-4461
+
+master_programs:
+  - title: Mecanique des Solides (Solid Mechanics)
+    url: https://sciences.sorbonne-universite.fr/formation-sciences/masters/master-de-mecanique/parcours-mecanique-des-solides-et-des-structures
+  - title: Computational Mechanics
+    url: https://sciences.sorbonne-universite.fr/formation-sciences/masters/master-de-mecanique/parcours-computational-mechanics
+
+research:
+  interests:
+    - Fracture and damage mechanics, variational phase-field models
+    - Multi-stable plates and shells
+    - Nonlinear elasticity
+  details_path: /research/
+
+teaching:
+  classes:
+    - Mecanique des Milieux Continus, M1
+    - Structures elancees, M1
+    - Fracture Mechanics, M2
+  resources:
+    - title: Basic computational methods for fracture mechanics using dolfinx
+      url: https://gitlab.com/newfrac/CORE-school/newfrac-core-numerics#basic-computational-methods-for-fracture-mechanics
+      notes: with Laura De Laurenzis, ETH Zurich
+    - title: Training on dolfinx including nonlinear elasticity and phase-field fracture
+      url: https://newfrac.gitlab.io/newfrac-fenicsx-training/
+      notes: in collaboration with Jack Hale, University of Luxembourg
+  network_name: Newfrac ITN network
+  network_url: https://www.newfrac.eu
+  details_path: /teaching/
+
+codes:
+  details_path: /codes/
+  framework_name: FEniCS
+  framework_url: https://fenicsproject.org

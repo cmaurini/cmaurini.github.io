@@ -12,12 +12,9 @@
 
     <div class="collapse navbar-collapse" id="site-navbar">
       <ul class="nav navbar-nav">
-        <li><a href="{{ "/publications/" | relative_url }}">Publications</a></li>
-        <li><a href="{{ "/research/" | relative_url }}">Research</a></li>
-        <li><a href="{{ "/teaching/" | relative_url }}">Teaching</a></li>
-        <li><a href="{{ "/codes/" | relative_url }}">Codes</a></li>
-        <li><a href="{{ "/contacts/" | relative_url }}">Contacts</a></li>
-        <li><a href="{{ "/archives/" | relative_url }}">Posts</a></li>
+        {% for item in site.data.navigation.main %}
+        <li><a href="{{ item.path | relative_url }}">{{ item.title }}</a></li>
+        {% endfor %}
       </ul>
     </div>
   </div>
