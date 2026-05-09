@@ -1,7 +1,7 @@
 # Site settings
 title: Corrado Maurini
-baseurl: "http://www.lmm.jussieu.fr/~corrado/_site"
-url: "http://www.lmm.jussieu.fr/corrado/_site"
+baseurl: "/~corrado"
+url: "http://www.lmm.jussieu.fr"
 
 # Build settings
 
