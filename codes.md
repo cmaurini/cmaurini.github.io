@@ -18,7 +18,7 @@ date:   2017-08-26 19:02:34 +0800
 
  - Supplementary material to {% cite cm-a-16-ijnme --file cm-articles.bib%} where you can find an advanced solver implemented using FEniCS and advanced features of PETSc [https://bitbucket.org/pefarrell/varfrac-solvers](https://bitbucket.org/pefarrell/varfrac-solvers)
 
- - Demo codes used at the cism-iutam summer school on variational fracture [http://www.cism.it/courses/C1304/](http://www.cism.it/courses/C1304/):
+ - Demo codes used at the cism-iutam summer school on variational fracture [https://www.cism.it/courses/C1304/](https://www.cism.it/courses/C1304/):
         [https://bitbucket.org/cmaurini/varfrac_for_cism](https://bitbucket.org/cmaurini/varfrac_for_cism),
       where you can find elementary examples for the implementation of gradient-damage models in FEniCS (can be outdated but useful as a starting example).
 
@@ -28,6 +28,6 @@ date:   2017-08-26 19:02:34 +0800
 
     - [https://bitbucket.org/unilucompmech/fenics-shells](https://bitbucket.org/unilucompmech/fenics-shells)
 
-  Further informations here: [http://fenics-shells.readthedocs.io/en/latest/](http://fenics-shells.readthedocs.io/en/latest/)
+  Further informations here: [https://fenics-shells.readthedocs.io/en/latest/](https://fenics-shells.readthedocs.io/en/latest/)
 
 See also my pages on [bitbucket](https://bitbucket.org/cmaurini/) and [github](https://github.com/cmaurini), where I usually host my codes.

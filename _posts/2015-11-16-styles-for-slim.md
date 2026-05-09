@@ -4,7 +4,7 @@ title:  Styles for this theme
 date:   2015-11-16  00:00:00
 ---
 
-Now, let's have a glance at the basic styles: [link](http://github.com/syaning/vida),
+Now, let's have a glance at the basic styles: [link](https://github.com/syaning/vida),
 **strong**, *italic*, <del>deletion</del>, <ins>insertion</ins>.
 
 Bibliography uses [jekyll-scholar](https://github.com/inukshuk/jekyll-scholar)
