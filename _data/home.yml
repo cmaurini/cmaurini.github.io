@@ -8,6 +8,8 @@ about:
 quick_links:
   - title: List of publications
     path: /publications/
+  - title: Flagship paper (arXiv)
+    url: https://arxiv.org/abs/2506.22558
   - title: HAL-UPMC with PDFs of my publications
     url: https://hal.sorbonne-universite.fr/search/index/?q=authFullName_t%3A%28Maurini+Corrado%29&submit=
   - title: Some research videos
