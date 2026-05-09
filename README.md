@@ -17,10 +17,21 @@ Run a local preview server:
 ./preview.sh
 ```
 
+`preview.sh` serves the site with both `_config.yml` and `_config.local.yml`.
+The local override keeps preview URLs rooted at `http://127.0.0.1:4000/` (empty `baseurl`) so links and assets work locally without production path prefixes.
+
+If port `4000` is already in use, stop the previous server process and rerun `./preview.sh`.
+
 Build the site once:
 
 ```sh
 bundle exec jekyll build
+```
+
+For a local-config one-shot build matching preview behavior:
+
+```sh
+bundle exec jekyll build --config _config.yml,_config.local.yml
 ```
 
 ## Deployment
