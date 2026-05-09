@@ -18,7 +18,7 @@ of the [{{ site.data.home.about.institute_name }}]({{ site.data.home.about.insti
 {% endif %}
 {% endfor %}
 
-I am responsible for the following two master programs at Sorbonne University. They are open to international students.
+I coordinate the following two master's programs at Sorbonne University. They are open to international students.
 {% for program in site.data.home.master_programs %}
 - [{{ program.title }}]({{ program.url }})
 {% endfor %}
@@ -44,7 +44,7 @@ I teach several classes at Sorbonne including
 - {{ class }}
 {% endfor %}
 
-You find here two recent computationally oriented courses I delivered in the framework of the [{{ site.data.home.teaching.network_name }}]({{ site.data.home.teaching.network_url }}):
+Here are two recent computationally oriented courses I delivered within the [{{ site.data.home.teaching.network_name }}]({{ site.data.home.teaching.network_url }}):
 
 {% for resource in site.data.home.teaching.resources %}
 - [{{ resource.title }}]({{ resource.url }}){% if resource.notes %}, {{ resource.notes }}{% endif %}
@@ -56,7 +56,7 @@ You can find further details in
 
 
 # Open source codes
-You find [here]({{ site.data.home.codes.details_path | relative_url }}) few repositories with codes I develop and use for my research and teaching. Those codes are based on [{{ site.data.home.codes.framework_name }}]({{ site.data.home.codes.framework_url }}) and meant mainly to serve as examples for further developments.
+You can find [here]({{ site.data.home.codes.details_path | relative_url }}) a few repositories with code I develop and use for my research and teaching. These codes are based on [{{ site.data.home.codes.framework_name }}]({{ site.data.home.codes.framework_url }}) and are mainly intended as examples for further developments.
 
 # Posts
 <div class="home">

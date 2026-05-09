@@ -53,12 +53,59 @@ bundle exec jekyll build --config _config.yml,_config.local.yml
 
 ## Deployment
 
+### GitHub Pages (automatic)
+
+A workflow is available at `.github/workflows/publish.yml`.
+It builds the site on each push to `source` (and supports manual trigger from the Actions tab), then:
+
+- deploys to GitHub Pages
+- deploys to the LMM host via `rsync` over SSH (when LMM secrets are configured)
+
+To enable it:
+
+1. In repository settings, open **Pages**.
+2. Set **Source** to **GitHub Actions**.
+3. Push to `source` (or run the workflow manually).
+
+To enable LMM deployment from Actions, set repository secrets:
+
+- `LMM_SSH_PRIVATE_KEY`: private key allowed to deploy on LMM host
+- `LMM_HOST`: remote host (for example `bipbip`)
+- `LMM_USER`: remote user
+- `LMM_SITE_PATH`: destination path on remote host
+- `LMM_SSH_PORT` (optional): SSH port, default `22`
+- `LMM_SSH_JUMP_HOST` (optional): jump host (for example `chagall`)
+- `LMM_SSH_JUMP_USER` (optional): user on jump host
+- `LMM_SSH_JUMP_PORT` (optional): jump host SSH port, default `22`
+
+### Remote host via rsync (manual)
+
 `publish.sh` is a thin wrapper around `scripts/publish.sh`.
 The publish script builds the site and uploads `_site/` with `rsync`.
 It accepts environment overrides for destination and dry-run mode:
 
 ```sh
 REMOTE_SITE_DEST=example:~/public_html/_site DRY_RUN=1 ./publish.sh
+```
+
+Useful overrides:
+
+- `REMOTE_SSH_PORT` (default: `22`)
+- `REMOTE_SSH_OPTS` (extra SSH options, for example `-o ProxyJump=...`)
+- `REMOTE_SSH_JUMP_HOST` (optional): jump host, for example `chagall`
+- `REMOTE_SSH_JUMP_USER` (optional): jump host user
+- `REMOTE_SSH_JUMP_PORT` (optional): jump host SSH port, default `22`
+
+Example with custom SSH port:
+
+```sh
+REMOTE_SITE_DEST=user@example.org:~/public_html/_site REMOTE_SSH_PORT=2222 ./publish.sh
+```
+
+Example via chagall jump host:
+
+```sh
+REMOTE_SITE_DEST=user@bipbip:~/public_html/_site REMOTE_SSH_JUMP_HOST=chagall REMOTE_SSH_JUMP_USER=user ./publish.sh
 ```
 
 If `../articles/` exists, it is synced as well (to `REMOTE_ARTICLES_DEST`).

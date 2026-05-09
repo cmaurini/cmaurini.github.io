@@ -28,6 +28,6 @@ date:   2017-08-26 19:02:34 +0800
 
     - [https://bitbucket.org/unilucompmech/fenics-shells](https://bitbucket.org/unilucompmech/fenics-shells)
 
-  Further informations here: [https://fenics-shells.readthedocs.io/en/latest/](https://fenics-shells.readthedocs.io/en/latest/)
+  Further information is available here: [https://fenics-shells.readthedocs.io/en/latest/](https://fenics-shells.readthedocs.io/en/latest/)
 
 See also my pages on [bitbucket](https://bitbucket.org/cmaurini/) and [github](https://github.com/cmaurini), where I usually host my codes.

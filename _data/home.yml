@@ -8,7 +8,7 @@ about:
 quick_links:
   - title: List of publications
     path: /publications/
-  - title: HAL-UPMC with pdfs of my publications
+  - title: HAL-UPMC with PDFs of my publications
     url: https://hal.sorbonne-universite.fr/search/index/?q=authFullName_t%3A%28Maurini+Corrado%29&submit=
   - title: Some research videos
     url: https://www.youtube.com/user/cmaurini
@@ -20,7 +20,7 @@ quick_links:
     url: https://orcid.org/0000-0003-1092-4461
 
 master_programs:
-  - title: Mecanique des Solides (Solid Mechanics)
+  - title: Mécanique des Solides (Solid Mechanics)
     url: https://sciences.sorbonne-universite.fr/formation-sciences/masters/master-de-mecanique/parcours-mecanique-des-solides-et-des-structures
   - title: Computational Mechanics
     url: https://sciences.sorbonne-universite.fr/formation-sciences/masters/master-de-mecanique/parcours-computational-mechanics
@@ -34,8 +34,8 @@ research:
 
 teaching:
   classes:
-    - Mecanique des Milieux Continus, M1
-    - Structures elancees, M1
+    - Mécanique des Milieux Continus, M1
+    - Structures élancées, M1
     - Fracture Mechanics, M2
   resources:
     - title: Basic computational methods for fracture mechanics using dolfinx
@@ -44,7 +44,7 @@ teaching:
     - title: Training on dolfinx including nonlinear elasticity and phase-field fracture
       url: https://newfrac.gitlab.io/newfrac-fenicsx-training/
       notes: in collaboration with Jack Hale, University of Luxembourg
-  network_name: Newfrac ITN network
+  network_name: NewFrac ITN Network
   network_url: https://www.newfrac.eu
   details_path: /teaching/
 
