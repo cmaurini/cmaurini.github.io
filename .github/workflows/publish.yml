@@ -53,37 +53,57 @@ jobs:
   deploy_lmm:
     needs: build
     runs-on: ubuntu-latest
-    if: ${{ secrets.LMM_SSH_PRIVATE_KEY != '' && secrets.LMM_HOST != '' && secrets.LMM_USER != '' && secrets.LMM_SITE_PATH != '' }}
     steps:
+      - name: Check deployment configuration
+        id: check
+        env:
+          HAS_KEY: ${{ secrets.LMM_SSH_PRIVATE_KEY != '' }}
+          HAS_HOST: ${{ secrets.LMM_HOST != '' }}
+          HAS_USER: ${{ secrets.LMM_USER != '' }}
+          HAS_PATH: ${{ secrets.LMM_SITE_PATH != '' }}
+        run: |
+          if [ "$HAS_KEY" = "true" ] && [ "$HAS_HOST" = "true" ] && [ "$HAS_USER" = "true" ] && [ "$HAS_PATH" = "true" ]; then
+            echo "configured=true" >> $GITHUB_OUTPUT
+          else
+            echo "configured=false" >> $GITHUB_OUTPUT
+            echo "LMM deployment secrets not configured, skipping."
+          fi
+
       - name: Checkout
+        if: steps.check.outputs.configured == 'true'
         uses: actions/checkout@v4
 
       - name: Setup Ruby
+        if: steps.check.outputs.configured == 'true'
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.3'
           bundler-cache: true
 
       - name: Build with Jekyll
+        if: steps.check.outputs.configured == 'true'
         run: bundle exec jekyll build --config _config.yml
 
       - name: Start SSH agent
+        if: steps.check.outputs.configured == 'true'
         uses: webfactory/ssh-agent@v0.9.0
         with:
           ssh-private-key: ${{ secrets.LMM_SSH_PRIVATE_KEY }}
 
       - name: Add LMM host key
+        if: steps.check.outputs.configured == 'true'
         run: |
           mkdir -p ~/.ssh
           ssh-keyscan -p "${{ secrets.LMM_SSH_PORT || '22' }}" -H "${{ secrets.LMM_HOST }}" >> ~/.ssh/known_hosts
 
       - name: Add jump host key (optional)
-        if: ${{ secrets.LMM_SSH_JUMP_HOST != '' }}
+        if: steps.check.outputs.configured == 'true' && secrets.LMM_SSH_JUMP_HOST != ''
         run: |
           mkdir -p ~/.ssh
           ssh-keyscan -p "${{ secrets.LMM_SSH_JUMP_PORT || '22' }}" -H "${{ secrets.LMM_SSH_JUMP_HOST }}" >> ~/.ssh/known_hosts
 
       - name: Deploy to LMM via rsync
+        if: steps.check.outputs.configured == 'true'
         env:
           LMM_SSH_PORT: ${{ secrets.LMM_SSH_PORT || '22' }}
           LMM_SSH_JUMP_HOST: ${{ secrets.LMM_SSH_JUMP_HOST }}
