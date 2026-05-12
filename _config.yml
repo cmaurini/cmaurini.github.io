@@ -4,6 +4,7 @@ baseurl: "/~corrado"
 url: "https://www.lmm.jussieu.fr"
 
 # Build settings
+safe: false
 
 github: [metadata]
 encoding: UTF-8

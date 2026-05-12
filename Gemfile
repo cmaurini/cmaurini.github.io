@@ -1,13 +1,12 @@
 source 'https://rubygems.org'
 
-#require 'json'
-#require 'open-uri'
-#versions = JSON.parse(open('https://pages.github.com/versions.json').read)
-
-gem 'github-pages'
-gem "jekyll"
+gem "jekyll", "~> 4.3"
 gem 'jekyll-scholar'
 gem 'bootstrap'
 gem 'activesupport'
-gem "bibtex-ruby"
 gem "jekyll-mentions"
+gem 'jekyll-redirect-from'
+gem 'jekyll-sitemap'
+gem 'jekyll-feed'
+gem 'jekyll-seo-tag'
+gem 'kramdown-parser-gfm'
